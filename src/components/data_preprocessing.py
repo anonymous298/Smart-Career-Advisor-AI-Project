@@ -1,6 +1,7 @@
 # Importing Necessary Dependencies
 import os
 import sys
+import pickle
 
 import pandas as pd
 import numpy as np
@@ -119,7 +120,7 @@ class DataPreprocessing:
             logger.error(e)
             CustomException(e, sys)
 
-    def get_preprocessors(self, columns):
+    def get_preprocessors(self, X_train, y_train):
         '''
         This method creates X_preprocessor and y_preprocessor and returns it
 
@@ -136,18 +137,18 @@ class DataPreprocessing:
 
             logger.info("Creating our X_preprocessor")
 
-            X_preprocessor = ColumnTransformer([
-                ('One Hot Encoding', OneHotEncoder(sparse_output=False), columns)
-            ])
+            X_preprocessors = {
+                col: LabelEncoder().fit(X_train[col]) for col in X_train.columns
+            }
 
             logger.info('Creating our y_preprocessor')
-            y_preprocessor = LabelEncoder()
+            y_preprocessor = LabelEncoder().fit(y_train)
 
             logger.info('Preprocessor Object Created')
 
             # Returning the preprocessor objects
             return (
-                X_preprocessor,
+                X_preprocessors,
                 y_preprocessor
             )
 
@@ -178,34 +179,47 @@ class DataPreprocessing:
 
                 # Getting X_train, X_test, y_train, y_test
                 X_train, X_test, y_train, y_test = self.training_testing_splitter(data=data)
-                
-                logger.info('Extracting Columns from our independent columns')
-                columns = X_train.columns
 
                 # Getting our preprocessor objects
                 logger.info('Entering get_preprocessor method')
-                X_preprocessor, y_preprocessor = self.get_preprocessors(columns=columns)
+                X_preprocessors, y_preprocessor = self.get_preprocessors(X_train=X_train, y_train=y_train)
 
                 # Initiating preprocessing on our data
                 logger.info("Starts preprocessing")
 
                 logger.info("Preprocessing on Independent Data")
 
-                # Learning and Transforming on X_train
-                X_train_trf = X_preprocessor.fit_transform(X_train)
+                # Encode X_train
+                X_train_trf = np.column_stack([
+                    X_preprocessors[col].transform(X_train[col]) for col in X_train.columns
+                ])
 
-                # Transforming on X_test
-                X_test_trf = X_preprocessor.transform(X_test)
+                # Encode X_test
+                X_test_trf = np.column_stack([
+                    X_preprocessors[col].transform(X_test[col]) for col in X_test.columns
+                ])
 
                 logger.info("Preprocessing on Dependent Features")
 
-                # Learning and transforming on y_train
-                y_train_trf = y_preprocessor.fit_transform(y_train)
+                # transforming on y_train
+                y_train_trf = y_preprocessor.transform(y_train)
 
                 # Transforming on y_test
                 y_test_trf = y_preprocessor.transform(y_test)
 
                 logger.info("All Preprocessing Completed")
+
+                logger.info('Saving our models to model path')
+
+                os.makedirs('models', exist_ok=True)
+
+                # Saving X_preprocessors (dict of LabelEncoders)
+                with open("models/X_preprocessors.pkl", "wb") as f:
+                    pickle.dump(X_preprocessors, f)
+
+                # Saving y_preprocessor (single LabelEncoder)
+                with open("models/y_preprocessor.pkl", "wb") as f:
+                    pickle.dump(y_preprocessor, f)
 
                 # Returning Transformed and model ready to train data
                 return (
