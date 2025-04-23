@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: Smart-Career-Advisor-AI
+Version: 0.1
+Author: Talha
+Author-email: tackletalha@gmail.com
+Requires-Dist: flask
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: tensorflow
+Requires-Dist: matplotlib
+Requires-Dist: seaborn

@@ -1,0 +1,14 @@
+README.md
+setup.py
+Smart_Career_Advisor_AI.egg-info/PKG-INFO
+Smart_Career_Advisor_AI.egg-info/SOURCES.txt
+Smart_Career_Advisor_AI.egg-info/dependency_links.txt
+Smart_Career_Advisor_AI.egg-info/requires.txt
+Smart_Career_Advisor_AI.egg-info/top_level.txt
+src/__init__.py
+src/components/__init__.py
+src/components/data_ingestion.py
+src/components/data_preprocessing.py
+src/components/model_evaluation.py
+src/components/model_training.py
+src/pipe/__init__.py
