@@ -221,3 +221,18 @@ class DataPreprocessing:
         except Exception as e:
             logger.error(e)
             CustomException(e, sys)
+
+
+# For testing purpose
+if __name__ == '__main__':
+    from src.components.data_ingestion import DataIngestion
+
+    data_ingestion = DataIngestion()
+
+    data_path = data_ingestion.load_data()
+
+    data_preprocessing = DataPreprocessing()
+
+    X_train, X_test, y_train, y_test = data_preprocessing.initiate_Preprocessing(data_path=data_path)
+
+    print(X_train)
