@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745489057704
+current_stage: None
+description: null
+last_updated_timestamp: 1745489057704
+name: Smart-Career-Advisor-Model-0.1
+run_id: aac898cb05e84222afcf838d42dd9f30
+run_link: null
+source: file:///C:/new%20learning/Coding%20Projects/Smart-Career-Advisor-AI-Project/mlruns/497458741308206205/aac898cb05e84222afcf838d42dd9f30/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/new%20learning/Coding%20Projects/Smart-Career-Advisor-AI-Project/mlruns/497458741308206205/aac898cb05e84222afcf838d42dd9f30/artifacts/model
+user_id: null
+version: 2
