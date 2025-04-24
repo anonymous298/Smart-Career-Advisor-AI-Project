@@ -45,13 +45,11 @@ class ModelTraining:
             model = Sequential()
 
             # Adding first Dense Layer
-            model.add(Dense(256, activation='relu', input_shape=(input_dim, )))
+            model.add(Dense(64, activation='relu', input_shape=(input_dim, )))
             # Adding Dropout Layer
-            model.add(Dropout(0.3))
+            model.add(Dropout(0.2))
             # Adding Second Dense Layer
-            model.add(Dense(128, activation='relu'))
-            # Adding Dropout Layer
-            model.add(Dropout(0.3))
+            model.add(Dense(32, activation='relu'))
             # Adding Output layer
             model.add(Dense(output_neurons, activation='softmax'))
 
