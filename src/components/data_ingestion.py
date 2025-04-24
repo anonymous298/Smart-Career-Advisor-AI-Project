@@ -48,7 +48,7 @@ class DataIngestion:
 
         except Exception as e:
             logger.error(e)
-            CustomException(e, sys)
+            raise CustomException(e, sys)
 
     def load_data(self):
         '''
@@ -86,7 +86,7 @@ class DataIngestion:
 
         except Exception as e:
             logger.error(e)
-            CustomException(e, sys)
+            raise CustomException(e, sys)
 
 
 # For Checking purpose
