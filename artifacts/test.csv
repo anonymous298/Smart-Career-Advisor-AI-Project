@@ -1,0 +1,1001 @@
+Interest,Skill_Level,Work_Style,Education,Personality,Problem_Solving,Tech,Communication,Leadership,Creativity,Career
+art,beginner,solo,phd,leader,creative,very high,poor,collaborative,low,ai ethics researcher
+business,expert,flexible,bachelors,extrovert,creative,very high,fluent,collaborative,exceptional,ui/ux designer
+science,beginner,solo,phd,thinker,logical,high,outstanding,collaborative,exceptional,speech recognition specialist
+technology,intermediate,solo,diploma,extrovert,intuitive,low,average,collaborative,low,hardware engineer
+technology,beginner,flexible,phd,leader,practical,low,fluent,strong,high,automation engineer
+science,expert,solo,bachelors,introvert,creative,low,fluent,collaborative,very high,research scientist
+business,advanced,office,diploma,thinker,practical,low,excellent,collaborative,high,technical writer
+science,advanced,flexible,high school,doer,practical,medium,excellent,collaborative,exceptional,robotics engineer
+technology,beginner,flexible,masters,extrovert,practical,very high,average,collaborative,very high,data analyst
+medicine,expert,flexible,diploma,doer,analytical,medium,fluent,moderate,exceptional,ml engineer
+business,advanced,solo,diploma,thinker,practical,low,poor,strong,exceptional,product manager
+business,intermediate,solo,diploma,leader,practical,medium,fluent,strong,exceptional,software engineer
+business,expert,team,high school,introvert,logical,high,poor,collaborative,very high,network engineer
+medicine,intermediate,office,high school,extrovert,creative,very high,average,collaborative,high,network engineer
+business,intermediate,office,masters,leader,logical,very high,outstanding,collaborative,low,iot specialist
+technology,expert,solo,diploma,thinker,logical,medium,poor,visionary,medium,computer vision engineer
+business,beginner,team,phd,extrovert,intuitive,high,excellent,collaborative,high,hardware engineer
+medicine,advanced,team,diploma,extrovert,creative,high,excellent,visionary,high,game developer
+art,beginner,flexible,masters,introvert,logical,very high,outstanding,collaborative,low,mobile app developer
+business,advanced,remote,phd,doer,practical,very high,poor,collaborative,exceptional,network engineer
+technology,expert,office,bachelors,leader,analytical,high,excellent,moderate,very high,site reliability engineer
+medicine,advanced,team,masters,doer,logical,very high,fluent,collaborative,medium,data scientist
+business,intermediate,remote,phd,extrovert,practical,very high,fluent,strong,high,data analyst
+business,beginner,office,bachelors,thinker,creative,very high,excellent,strong,exceptional,automation engineer
+art,advanced,solo,phd,extrovert,intuitive,medium,outstanding,strong,low,devops engineer
+medicine,advanced,solo,diploma,leader,practical,low,average,collaborative,low,ui/ux designer
+art,beginner,remote,diploma,leader,logical,very high,poor,moderate,medium,business analyst
+technology,expert,solo,masters,thinker,logical,very high,excellent,moderate,low,augmented reality developer
+science,advanced,office,bachelors,introvert,practical,medium,average,collaborative,low,data engineer
+business,beginner,solo,phd,thinker,intuitive,high,fluent,collaborative,exceptional,mobile app developer
+business,beginner,team,phd,doer,intuitive,high,average,moderate,low,computer vision engineer
+technology,beginner,remote,diploma,introvert,intuitive,high,excellent,collaborative,high,research scientist
+technology,beginner,solo,masters,extrovert,intuitive,very high,outstanding,moderate,medium,augmented reality developer
+technology,intermediate,flexible,masters,introvert,creative,medium,average,moderate,medium,data scientist
+art,advanced,remote,bachelors,leader,practical,high,outstanding,collaborative,low,cybersecurity analyst
+business,advanced,office,diploma,doer,creative,medium,poor,visionary,very high,software engineer
+business,advanced,remote,masters,thinker,practical,very high,poor,moderate,low,technical writer
+business,beginner,remote,bachelors,leader,practical,medium,poor,strong,medium,product manager
+medicine,advanced,office,high school,thinker,logical,medium,outstanding,collaborative,low,embedded systems engineer
+science,beginner,flexible,high school,doer,creative,very high,average,collaborative,very high,financial analyst
+medicine,intermediate,office,bachelors,leader,creative,very high,excellent,collaborative,exceptional,deep learning engineer
+art,advanced,flexible,bachelors,doer,analytical,medium,fluent,strong,medium,devops engineer
+art,expert,solo,phd,extrovert,logical,low,fluent,visionary,medium,cloud architect
+medicine,beginner,office,bachelors,thinker,analytical,very high,average,visionary,very high,ai ethics researcher
+technology,advanced,flexible,bachelors,thinker,practical,very high,average,visionary,medium,ai researcher
+business,advanced,office,phd,thinker,practical,very high,excellent,moderate,medium,cloud architect
+art,advanced,solo,high school,thinker,practical,low,outstanding,strong,medium,data engineer
+science,advanced,team,bachelors,extrovert,logical,high,outstanding,moderate,medium,deep learning engineer
+technology,advanced,solo,diploma,introvert,creative,high,fluent,strong,low,hardware engineer
+technology,advanced,office,phd,introvert,creative,low,average,collaborative,low,network engineer
+medicine,expert,remote,diploma,leader,analytical,high,excellent,collaborative,exceptional,game developer
+art,expert,team,high school,doer,intuitive,very high,outstanding,visionary,exceptional,data scientist
+science,intermediate,remote,diploma,extrovert,practical,medium,poor,collaborative,exceptional,hardware engineer
+technology,advanced,team,diploma,thinker,logical,low,fluent,collaborative,low,blockchain developer
+business,advanced,solo,phd,extrovert,creative,very high,outstanding,moderate,high,financial analyst
+science,beginner,flexible,phd,introvert,creative,low,outstanding,visionary,high,data engineer
+business,advanced,remote,phd,leader,analytical,medium,fluent,visionary,exceptional,ai researcher
+technology,advanced,office,diploma,thinker,logical,very high,fluent,collaborative,very high,iot specialist
+technology,advanced,solo,phd,doer,analytical,medium,outstanding,collaborative,high,speech recognition specialist
+technology,advanced,office,high school,thinker,practical,very high,excellent,visionary,medium,game developer
+business,beginner,flexible,phd,extrovert,practical,high,poor,collaborative,exceptional,ai ethics researcher
+science,advanced,flexible,diploma,introvert,intuitive,high,poor,strong,medium,product manager
+business,expert,solo,masters,introvert,creative,low,average,visionary,high,nlp engineer
+medicine,advanced,team,phd,extrovert,logical,very high,fluent,moderate,exceptional,system architect
+art,advanced,team,bachelors,thinker,analytical,low,excellent,strong,low,bioinformatics scientist
+art,expert,team,bachelors,doer,intuitive,very high,poor,moderate,very high,business analyst
+medicine,advanced,office,bachelors,thinker,creative,low,excellent,collaborative,exceptional,data engineer
+science,intermediate,office,diploma,extrovert,creative,high,excellent,strong,exceptional,augmented reality developer
+technology,intermediate,office,bachelors,extrovert,logical,high,excellent,collaborative,medium,ai researcher
+technology,advanced,solo,masters,extrovert,logical,low,average,strong,exceptional,technical writer
+business,advanced,team,diploma,extrovert,creative,high,fluent,collaborative,very high,qa engineer
+science,intermediate,office,bachelors,doer,practical,low,fluent,collaborative,medium,ai researcher
+science,advanced,team,diploma,doer,analytical,low,outstanding,visionary,exceptional,embedded systems engineer
+business,intermediate,solo,masters,doer,logical,high,excellent,moderate,medium,automation engineer
+business,advanced,office,phd,leader,logical,low,fluent,visionary,low,solutions architect
+art,advanced,solo,phd,extrovert,creative,medium,fluent,moderate,very high,cloud architect
+technology,advanced,solo,high school,leader,logical,high,average,moderate,medium,deep learning engineer
+science,advanced,remote,high school,leader,logical,low,excellent,strong,high,technical writer
+business,advanced,remote,diploma,introvert,intuitive,low,poor,collaborative,low,network engineer
+science,beginner,solo,masters,leader,practical,high,excellent,collaborative,high,nlp engineer
+business,advanced,remote,diploma,introvert,practical,high,average,collaborative,medium,web developer
+science,beginner,solo,diploma,doer,creative,high,poor,collaborative,medium,network engineer
+science,expert,remote,high school,thinker,practical,medium,average,collaborative,high,deep learning engineer
+medicine,beginner,remote,bachelors,doer,practical,very high,average,moderate,low,deep learning engineer
+business,advanced,office,high school,doer,creative,high,average,collaborative,low,bioinformatics scientist
+art,intermediate,team,high school,leader,intuitive,medium,excellent,moderate,low,computer vision engineer
+technology,expert,solo,diploma,leader,intuitive,very high,poor,strong,low,hardware engineer
+science,expert,solo,diploma,thinker,creative,medium,fluent,strong,exceptional,data scientist
+art,advanced,office,masters,thinker,practical,high,excellent,collaborative,high,cybersecurity analyst
+business,expert,team,high school,thinker,intuitive,high,fluent,visionary,high,virtual reality developer
+art,advanced,flexible,high school,thinker,practical,high,poor,visionary,very high,ai ethics researcher
+art,beginner,solo,diploma,doer,logical,medium,average,visionary,very high,virtual reality developer
+business,intermediate,flexible,masters,extrovert,creative,low,fluent,moderate,very high,solutions architect
+science,beginner,solo,masters,thinker,intuitive,high,excellent,strong,low,product manager
+technology,expert,team,bachelors,introvert,creative,medium,fluent,collaborative,low,automation engineer
+science,expert,flexible,high school,extrovert,logical,medium,fluent,collaborative,high,network engineer
+art,expert,remote,diploma,extrovert,analytical,very high,fluent,strong,low,technical writer
+science,beginner,team,phd,extrovert,creative,high,poor,visionary,medium,software engineer
+art,advanced,team,masters,introvert,creative,medium,fluent,collaborative,very high,full stack developer
+medicine,expert,office,phd,thinker,intuitive,low,average,moderate,very high,database administrator
+science,intermediate,flexible,bachelors,thinker,analytical,high,fluent,collaborative,medium,product manager
+business,intermediate,solo,diploma,leader,logical,high,average,visionary,medium,virtual reality developer
+medicine,beginner,team,high school,extrovert,practical,low,fluent,visionary,medium,game developer
+medicine,expert,flexible,diploma,thinker,practical,low,poor,visionary,very high,system architect
+medicine,intermediate,team,masters,introvert,logical,very high,outstanding,strong,high,algorithm engineer
+business,advanced,remote,phd,introvert,practical,low,outstanding,collaborative,medium,deep learning engineer
+art,beginner,flexible,bachelors,leader,logical,high,fluent,collaborative,exceptional,devops engineer
+art,advanced,flexible,high school,leader,analytical,medium,fluent,visionary,high,data engineer
+art,advanced,remote,bachelors,extrovert,creative,low,outstanding,collaborative,exceptional,algorithm engineer
+art,intermediate,flexible,diploma,leader,logical,medium,average,collaborative,low,bioinformatics scientist
+technology,advanced,flexible,diploma,thinker,creative,medium,average,strong,very high,devops engineer
+business,intermediate,office,bachelors,thinker,creative,medium,poor,collaborative,exceptional,automation engineer
+business,expert,solo,diploma,extrovert,logical,high,fluent,visionary,high,product manager
+art,beginner,office,high school,thinker,intuitive,low,outstanding,moderate,low,cloud architect
+art,beginner,team,bachelors,doer,analytical,high,poor,visionary,very high,solutions architect
+medicine,advanced,flexible,phd,doer,intuitive,high,average,collaborative,medium,algorithm engineer
+medicine,beginner,flexible,high school,introvert,analytical,medium,poor,collaborative,very high,virtual reality developer
+business,expert,remote,diploma,leader,practical,medium,outstanding,collaborative,very high,bioinformatics scientist
+technology,advanced,flexible,diploma,extrovert,logical,low,average,strong,exceptional,database administrator
+technology,advanced,solo,bachelors,thinker,creative,high,fluent,visionary,medium,ai researcher
+science,advanced,flexible,masters,doer,intuitive,high,outstanding,moderate,low,speech recognition specialist
+art,expert,office,bachelors,thinker,practical,low,outstanding,visionary,very high,ml engineer
+art,expert,flexible,high school,leader,creative,low,outstanding,strong,medium,bioinformatics scientist
+business,intermediate,flexible,phd,doer,practical,high,average,moderate,very high,augmented reality developer
+science,beginner,flexible,phd,introvert,practical,high,fluent,visionary,high,qa engineer
+technology,advanced,office,bachelors,leader,logical,high,average,moderate,high,bioinformatics scientist
+technology,expert,flexible,diploma,thinker,creative,high,excellent,collaborative,low,automation engineer
+business,advanced,office,phd,leader,creative,high,fluent,strong,medium,computer vision engineer
+art,intermediate,office,phd,thinker,analytical,very high,excellent,moderate,low,augmented reality developer
+business,advanced,remote,masters,doer,analytical,high,excellent,strong,very high,bioinformatics scientist
+business,advanced,solo,high school,leader,creative,high,outstanding,collaborative,medium,computer vision engineer
+science,advanced,flexible,bachelors,doer,intuitive,low,poor,strong,exceptional,ai ethics researcher
+art,beginner,solo,phd,thinker,practical,medium,average,visionary,exceptional,web developer
+business,advanced,office,masters,leader,logical,high,excellent,moderate,medium,software engineer
+medicine,advanced,flexible,masters,leader,creative,low,outstanding,visionary,high,data engineer
+technology,beginner,team,phd,thinker,creative,medium,excellent,collaborative,medium,data engineer
+art,beginner,office,diploma,thinker,practical,high,outstanding,visionary,very high,data engineer
+technology,advanced,remote,diploma,introvert,creative,high,outstanding,collaborative,medium,nlp engineer
+technology,intermediate,team,bachelors,thinker,creative,high,poor,visionary,very high,qa engineer
+art,beginner,remote,diploma,extrovert,intuitive,medium,fluent,strong,high,technical writer
+science,advanced,office,high school,doer,intuitive,high,poor,moderate,low,database administrator
+technology,expert,office,phd,doer,creative,low,excellent,strong,medium,product manager
+art,advanced,team,phd,extrovert,logical,medium,fluent,visionary,low,mobile app developer
+medicine,advanced,team,high school,extrovert,logical,medium,fluent,collaborative,low,data analyst
+medicine,advanced,flexible,masters,introvert,intuitive,high,excellent,strong,medium,bioinformatics scientist
+technology,beginner,team,masters,thinker,practical,very high,excellent,visionary,exceptional,technical writer
+business,advanced,solo,masters,thinker,analytical,low,outstanding,visionary,high,system architect
+technology,advanced,solo,bachelors,thinker,analytical,high,average,collaborative,very high,augmented reality developer
+art,expert,solo,masters,extrovert,logical,high,outstanding,strong,low,game developer
+medicine,beginner,team,masters,doer,intuitive,very high,fluent,collaborative,low,database administrator
+medicine,beginner,solo,bachelors,introvert,analytical,low,poor,collaborative,low,ai ethics researcher
+business,intermediate,office,bachelors,extrovert,creative,high,average,visionary,high,cloud architect
+business,advanced,flexible,masters,thinker,logical,high,poor,moderate,very high,cloud architect
+medicine,advanced,flexible,phd,thinker,practical,high,outstanding,visionary,medium,computer vision engineer
+business,expert,team,phd,leader,logical,very high,outstanding,visionary,exceptional,software engineer
+science,advanced,team,high school,extrovert,practical,very high,poor,collaborative,high,augmented reality developer
+science,expert,solo,diploma,doer,intuitive,high,outstanding,strong,very high,technical writer
+art,beginner,remote,diploma,extrovert,creative,low,outstanding,collaborative,low,game developer
+technology,expert,remote,high school,introvert,analytical,very high,outstanding,strong,very high,site reliability engineer
+medicine,expert,team,diploma,leader,logical,low,fluent,visionary,medium,database administrator
+business,intermediate,flexible,diploma,doer,intuitive,very high,fluent,visionary,very high,iot specialist
+business,intermediate,flexible,high school,doer,logical,low,poor,strong,high,technical writer
+business,advanced,team,diploma,introvert,analytical,high,excellent,strong,low,financial analyst
+medicine,advanced,remote,phd,doer,logical,very high,excellent,collaborative,exceptional,speech recognition specialist
+science,advanced,team,bachelors,leader,practical,very high,fluent,visionary,exceptional,web developer
+business,advanced,team,bachelors,leader,intuitive,low,poor,visionary,medium,iot specialist
+art,intermediate,team,phd,leader,analytical,very high,excellent,moderate,medium,deep learning engineer
+technology,beginner,team,diploma,introvert,logical,high,poor,collaborative,low,game developer
+technology,advanced,team,masters,thinker,creative,medium,fluent,collaborative,low,deep learning engineer
+technology,intermediate,solo,masters,extrovert,intuitive,high,average,moderate,medium,full stack developer
+business,intermediate,office,phd,introvert,intuitive,very high,outstanding,strong,high,computer vision engineer
+art,advanced,remote,bachelors,doer,analytical,high,fluent,strong,medium,technical writer
+medicine,intermediate,remote,diploma,thinker,intuitive,high,fluent,strong,very high,site reliability engineer
+technology,beginner,office,masters,extrovert,creative,very high,fluent,strong,exceptional,algorithm engineer
+business,beginner,office,high school,extrovert,analytical,low,average,collaborative,low,product manager
+technology,advanced,office,high school,introvert,logical,high,fluent,collaborative,medium,financial analyst
+technology,intermediate,office,phd,doer,intuitive,low,poor,visionary,exceptional,software engineer
+science,beginner,solo,bachelors,extrovert,practical,high,outstanding,strong,very high,algorithm engineer
+art,expert,remote,diploma,doer,practical,high,outstanding,strong,exceptional,computer vision engineer
+art,intermediate,flexible,high school,leader,analytical,medium,fluent,moderate,exceptional,full stack developer
+medicine,advanced,team,bachelors,introvert,practical,low,excellent,collaborative,exceptional,database administrator
+medicine,beginner,solo,bachelors,introvert,intuitive,very high,average,collaborative,high,nlp engineer
+medicine,beginner,office,phd,introvert,logical,high,poor,visionary,low,iot specialist
+science,beginner,team,masters,extrovert,logical,low,excellent,moderate,low,system architect
+science,advanced,flexible,phd,introvert,practical,medium,outstanding,moderate,very high,site reliability engineer
+science,advanced,remote,masters,extrovert,practical,very high,fluent,collaborative,very high,full stack developer
+medicine,intermediate,solo,phd,leader,intuitive,very high,excellent,visionary,low,hardware engineer
+medicine,intermediate,team,diploma,doer,intuitive,very high,poor,strong,exceptional,virtual reality developer
+medicine,advanced,remote,masters,extrovert,practical,low,fluent,visionary,low,bioinformatics scientist
+technology,expert,remote,masters,leader,practical,low,average,collaborative,high,data analyst
+technology,intermediate,team,high school,thinker,intuitive,high,poor,collaborative,low,research scientist
+technology,advanced,office,bachelors,doer,practical,high,poor,moderate,low,ml engineer
+art,expert,office,bachelors,doer,practical,low,average,visionary,medium,database administrator
+business,intermediate,office,diploma,doer,practical,low,excellent,moderate,exceptional,web developer
+medicine,advanced,flexible,high school,thinker,practical,high,fluent,collaborative,medium,augmented reality developer
+medicine,advanced,remote,diploma,extrovert,practical,high,excellent,strong,high,algorithm engineer
+medicine,advanced,remote,high school,doer,practical,medium,outstanding,strong,exceptional,robotics engineer
+art,beginner,solo,phd,thinker,analytical,very high,poor,visionary,exceptional,automation engineer
+science,advanced,team,phd,thinker,practical,high,poor,visionary,medium,software engineer
+medicine,beginner,office,high school,leader,analytical,medium,fluent,visionary,high,ai researcher
+medicine,beginner,remote,diploma,leader,practical,medium,outstanding,collaborative,high,ai ethics researcher
+technology,beginner,flexible,phd,doer,analytical,high,average,visionary,very high,network engineer
+science,expert,office,phd,doer,intuitive,high,outstanding,collaborative,exceptional,bioinformatics scientist
+technology,intermediate,team,masters,doer,creative,high,excellent,moderate,low,cloud architect
+technology,advanced,flexible,diploma,introvert,practical,medium,fluent,collaborative,high,devops engineer
+medicine,expert,solo,bachelors,introvert,analytical,high,outstanding,collaborative,high,blockchain developer
+science,advanced,office,high school,extrovert,analytical,high,fluent,collaborative,very high,web developer
+technology,intermediate,team,masters,extrovert,intuitive,high,poor,strong,high,augmented reality developer
+medicine,expert,flexible,bachelors,extrovert,analytical,high,excellent,collaborative,medium,database administrator
+art,beginner,remote,phd,introvert,logical,medium,outstanding,moderate,very high,computer vision engineer
+business,intermediate,solo,high school,extrovert,creative,medium,average,moderate,low,augmented reality developer
+science,intermediate,remote,high school,extrovert,analytical,very high,excellent,collaborative,exceptional,embedded systems engineer
+business,beginner,team,bachelors,doer,practical,medium,average,collaborative,high,cloud architect
+technology,expert,solo,diploma,thinker,analytical,low,fluent,visionary,high,embedded systems engineer
+business,expert,team,phd,leader,practical,very high,poor,visionary,exceptional,database administrator
+business,advanced,remote,diploma,leader,intuitive,high,average,collaborative,medium,ai researcher
+medicine,advanced,flexible,masters,leader,logical,high,average,collaborative,exceptional,site reliability engineer
+technology,expert,team,high school,thinker,logical,high,average,strong,exceptional,database administrator
+art,expert,office,bachelors,introvert,logical,high,outstanding,strong,medium,algorithm engineer
+medicine,expert,remote,bachelors,leader,practical,very high,outstanding,visionary,high,augmented reality developer
+business,beginner,solo,diploma,extrovert,analytical,medium,excellent,strong,medium,speech recognition specialist
+technology,expert,flexible,high school,extrovert,logical,high,fluent,collaborative,exceptional,solutions architect
+business,intermediate,solo,phd,doer,practical,medium,fluent,moderate,exceptional,solutions architect
+medicine,advanced,remote,bachelors,introvert,practical,high,outstanding,strong,medium,speech recognition specialist
+business,expert,office,phd,introvert,creative,low,poor,strong,exceptional,nlp engineer
+art,intermediate,flexible,bachelors,doer,analytical,very high,average,visionary,exceptional,data scientist
+art,advanced,remote,masters,extrovert,analytical,low,poor,moderate,medium,bioinformatics scientist
+medicine,intermediate,flexible,diploma,extrovert,intuitive,medium,outstanding,moderate,low,qa engineer
+science,advanced,remote,high school,leader,logical,very high,average,visionary,exceptional,augmented reality developer
+science,advanced,remote,high school,introvert,logical,high,average,visionary,exceptional,robotics engineer
+medicine,advanced,team,diploma,doer,practical,very high,excellent,strong,low,data scientist
+science,beginner,flexible,high school,leader,logical,low,outstanding,collaborative,very high,automation engineer
+medicine,expert,flexible,high school,introvert,creative,high,fluent,collaborative,low,data scientist
+science,intermediate,team,diploma,extrovert,practical,high,average,strong,high,research scientist
+business,advanced,remote,masters,doer,practical,medium,excellent,moderate,exceptional,ai ethics researcher
+science,expert,solo,diploma,doer,creative,high,average,strong,low,game developer
+science,advanced,team,high school,introvert,practical,very high,outstanding,collaborative,exceptional,ui/ux designer
+technology,intermediate,team,high school,thinker,analytical,medium,fluent,moderate,exceptional,game developer
+technology,advanced,remote,bachelors,thinker,intuitive,high,outstanding,strong,high,full stack developer
+medicine,advanced,flexible,bachelors,introvert,creative,high,excellent,collaborative,medium,research scientist
+business,advanced,flexible,high school,leader,creative,very high,excellent,strong,exceptional,algorithm engineer
+business,beginner,office,high school,thinker,logical,low,average,moderate,high,iot specialist
+business,intermediate,flexible,high school,leader,intuitive,medium,outstanding,strong,very high,research scientist
+art,beginner,solo,masters,leader,analytical,high,poor,strong,high,technical writer
+art,beginner,office,masters,introvert,intuitive,high,outstanding,strong,low,solutions architect
+art,intermediate,remote,high school,introvert,intuitive,very high,average,collaborative,very high,blockchain developer
+art,advanced,team,diploma,thinker,analytical,very high,poor,moderate,very high,deep learning engineer
+science,advanced,solo,diploma,doer,analytical,very high,outstanding,strong,medium,solutions architect
+science,intermediate,flexible,masters,leader,intuitive,medium,poor,collaborative,medium,ml engineer
+technology,intermediate,solo,high school,doer,creative,high,fluent,visionary,low,site reliability engineer
+art,advanced,team,diploma,introvert,creative,low,average,collaborative,exceptional,product manager
+technology,expert,remote,bachelors,leader,analytical,high,outstanding,collaborative,medium,nlp engineer
+science,expert,remote,phd,doer,creative,medium,fluent,strong,high,game developer
+medicine,expert,remote,bachelors,doer,practical,low,fluent,collaborative,very high,data analyst
+science,intermediate,team,high school,leader,analytical,very high,fluent,collaborative,very high,ui/ux designer
+medicine,advanced,office,diploma,doer,creative,high,excellent,moderate,very high,network engineer
+technology,advanced,flexible,high school,thinker,practical,high,poor,moderate,medium,speech recognition specialist
+business,intermediate,team,masters,thinker,analytical,low,average,collaborative,low,embedded systems engineer
+business,advanced,remote,masters,extrovert,logical,medium,poor,strong,very high,technical writer
+medicine,intermediate,flexible,diploma,introvert,logical,very high,average,collaborative,high,nlp engineer
+business,intermediate,remote,phd,leader,analytical,high,fluent,collaborative,very high,data scientist
+science,beginner,remote,masters,doer,logical,high,average,collaborative,exceptional,blockchain developer
+technology,intermediate,remote,masters,doer,analytical,medium,average,visionary,medium,embedded systems engineer
+medicine,advanced,remote,bachelors,extrovert,creative,high,excellent,collaborative,high,deep learning engineer
+medicine,beginner,solo,high school,extrovert,intuitive,very high,average,visionary,very high,software engineer
+medicine,advanced,office,high school,extrovert,analytical,medium,average,collaborative,medium,ml engineer
+medicine,beginner,flexible,diploma,extrovert,creative,high,average,collaborative,high,business analyst
+art,expert,flexible,high school,extrovert,intuitive,very high,fluent,strong,very high,game developer
+medicine,expert,remote,phd,leader,practical,high,outstanding,moderate,low,hardware engineer
+business,advanced,office,high school,thinker,creative,high,poor,collaborative,exceptional,web developer
+technology,advanced,flexible,phd,leader,analytical,low,average,strong,very high,web developer
+medicine,intermediate,office,bachelors,leader,creative,high,poor,strong,high,iot specialist
+science,expert,office,phd,thinker,logical,low,outstanding,collaborative,low,devops engineer
+medicine,advanced,solo,masters,doer,analytical,high,excellent,moderate,very high,bioinformatics scientist
+business,beginner,flexible,phd,thinker,logical,medium,fluent,moderate,low,mobile app developer
+technology,intermediate,team,masters,leader,analytical,medium,excellent,visionary,low,augmented reality developer
+business,beginner,team,masters,introvert,intuitive,low,average,moderate,medium,technical writer
+business,advanced,team,bachelors,leader,logical,high,poor,visionary,low,algorithm engineer
+technology,expert,solo,high school,thinker,logical,very high,average,visionary,high,network engineer
+art,advanced,solo,bachelors,leader,creative,very high,excellent,collaborative,medium,automation engineer
+science,expert,office,diploma,thinker,practical,low,excellent,visionary,exceptional,iot specialist
+medicine,advanced,office,diploma,introvert,analytical,low,excellent,strong,exceptional,devops engineer
+science,advanced,remote,high school,thinker,creative,very high,outstanding,visionary,exceptional,research scientist
+science,advanced,flexible,bachelors,extrovert,intuitive,high,average,moderate,low,ml engineer
+business,advanced,solo,diploma,extrovert,practical,very high,outstanding,visionary,low,devops engineer
+medicine,advanced,solo,diploma,introvert,logical,low,excellent,collaborative,high,bioinformatics scientist
+medicine,advanced,flexible,diploma,doer,analytical,high,excellent,collaborative,low,ai ethics researcher
+business,expert,solo,bachelors,thinker,practical,high,excellent,moderate,high,ml engineer
+technology,intermediate,flexible,diploma,leader,logical,low,excellent,visionary,very high,system architect
+medicine,advanced,flexible,diploma,doer,creative,low,average,collaborative,medium,algorithm engineer
+business,intermediate,office,high school,extrovert,practical,very high,fluent,moderate,low,database administrator
+business,advanced,solo,masters,leader,analytical,high,excellent,strong,high,full stack developer
+technology,expert,solo,diploma,introvert,practical,low,excellent,collaborative,exceptional,research scientist
+science,advanced,flexible,high school,extrovert,analytical,very high,fluent,moderate,low,ui/ux designer
+art,advanced,team,masters,introvert,creative,low,poor,moderate,high,hardware engineer
+science,advanced,office,high school,introvert,logical,very high,average,strong,medium,virtual reality developer
+science,advanced,remote,high school,extrovert,practical,very high,average,collaborative,high,algorithm engineer
+technology,beginner,remote,phd,thinker,logical,high,excellent,collaborative,exceptional,network engineer
+science,expert,team,masters,extrovert,intuitive,medium,excellent,strong,very high,nlp engineer
+medicine,advanced,team,diploma,introvert,logical,medium,excellent,collaborative,very high,deep learning engineer
+business,intermediate,office,phd,thinker,creative,low,average,visionary,medium,robotics engineer
+business,advanced,remote,diploma,thinker,creative,medium,average,collaborative,low,network engineer
+science,expert,office,phd,extrovert,creative,very high,outstanding,moderate,exceptional,system architect
+science,beginner,remote,bachelors,leader,logical,high,excellent,strong,medium,web developer
+science,expert,flexible,diploma,extrovert,intuitive,low,excellent,collaborative,high,site reliability engineer
+art,advanced,solo,masters,introvert,intuitive,very high,excellent,collaborative,medium,robotics engineer
+business,expert,solo,bachelors,leader,practical,medium,average,moderate,medium,product manager
+business,beginner,remote,diploma,extrovert,creative,very high,fluent,visionary,exceptional,speech recognition specialist
+science,beginner,team,diploma,thinker,logical,high,average,collaborative,low,deep learning engineer
+science,advanced,office,diploma,leader,analytical,high,average,collaborative,exceptional,research scientist
+medicine,intermediate,office,bachelors,doer,creative,high,outstanding,moderate,medium,cybersecurity analyst
+art,expert,solo,bachelors,leader,creative,medium,excellent,strong,high,web developer
+art,advanced,solo,phd,extrovert,intuitive,low,excellent,moderate,high,robotics engineer
+medicine,beginner,office,bachelors,leader,intuitive,medium,fluent,moderate,exceptional,cloud architect
+medicine,expert,team,diploma,doer,creative,medium,average,strong,low,embedded systems engineer
+business,intermediate,team,phd,doer,analytical,high,average,moderate,medium,nlp engineer
+art,expert,remote,high school,introvert,logical,medium,excellent,visionary,low,hardware engineer
+technology,intermediate,solo,diploma,thinker,logical,medium,outstanding,collaborative,low,cloud architect
+business,expert,flexible,high school,extrovert,creative,low,fluent,moderate,high,mobile app developer
+business,beginner,solo,phd,introvert,practical,low,average,collaborative,medium,software engineer
+business,advanced,team,masters,thinker,intuitive,high,excellent,collaborative,high,database administrator
+art,beginner,solo,bachelors,leader,creative,high,outstanding,collaborative,exceptional,web developer
+science,advanced,solo,masters,extrovert,practical,high,poor,collaborative,high,system architect
+art,advanced,remote,high school,thinker,analytical,high,fluent,moderate,very high,automation engineer
+art,beginner,solo,masters,leader,intuitive,high,poor,collaborative,medium,deep learning engineer
+medicine,advanced,solo,bachelors,doer,logical,medium,fluent,moderate,low,solutions architect
+business,expert,remote,bachelors,extrovert,logical,very high,fluent,collaborative,very high,network engineer
+business,advanced,team,bachelors,leader,practical,high,fluent,strong,very high,product manager
+medicine,expert,remote,diploma,thinker,analytical,high,excellent,moderate,very high,data engineer
+technology,advanced,remote,bachelors,leader,creative,very high,average,strong,exceptional,software engineer
+art,beginner,office,phd,leader,analytical,medium,fluent,collaborative,very high,iot specialist
+technology,advanced,team,diploma,doer,analytical,very high,excellent,strong,high,technical writer
+medicine,expert,solo,bachelors,thinker,logical,high,fluent,visionary,exceptional,robotics engineer
+business,beginner,office,high school,introvert,intuitive,low,fluent,visionary,medium,product manager
+business,expert,remote,phd,extrovert,creative,high,average,moderate,low,ai researcher
+art,beginner,office,bachelors,extrovert,creative,very high,excellent,strong,high,automation engineer
+art,intermediate,solo,bachelors,extrovert,analytical,medium,fluent,visionary,medium,ml engineer
+science,advanced,team,bachelors,extrovert,analytical,high,outstanding,moderate,high,nlp engineer
+business,advanced,remote,masters,thinker,intuitive,medium,outstanding,collaborative,high,database administrator
+science,intermediate,team,high school,doer,analytical,medium,fluent,collaborative,exceptional,qa engineer
+business,advanced,flexible,high school,leader,creative,high,fluent,collaborative,medium,computer vision engineer
+medicine,expert,team,bachelors,doer,analytical,medium,outstanding,visionary,very high,ai ethics researcher
+science,expert,team,diploma,doer,intuitive,very high,outstanding,collaborative,high,bioinformatics scientist
+science,advanced,office,high school,thinker,practical,high,poor,visionary,very high,computer vision engineer
+art,beginner,flexible,masters,extrovert,logical,high,excellent,strong,low,automation engineer
+technology,expert,office,masters,doer,practical,low,excellent,moderate,exceptional,augmented reality developer
+art,advanced,office,high school,doer,creative,high,poor,moderate,high,ml engineer
+medicine,advanced,solo,high school,thinker,intuitive,low,fluent,collaborative,very high,technical writer
+science,intermediate,team,masters,extrovert,intuitive,high,outstanding,visionary,very high,site reliability engineer
+science,expert,remote,high school,thinker,creative,high,excellent,collaborative,very high,algorithm engineer
+art,expert,office,bachelors,introvert,creative,low,average,collaborative,low,game developer
+art,advanced,team,diploma,introvert,logical,high,excellent,collaborative,medium,computer vision engineer
+technology,advanced,flexible,phd,introvert,intuitive,high,average,strong,medium,financial analyst
+medicine,advanced,remote,phd,thinker,practical,medium,fluent,strong,low,product manager
+business,advanced,team,high school,thinker,practical,high,poor,moderate,medium,automation engineer
+medicine,intermediate,office,masters,thinker,analytical,high,average,collaborative,medium,hardware engineer
+art,intermediate,team,masters,introvert,practical,very high,outstanding,collaborative,high,web developer
+technology,expert,solo,bachelors,doer,creative,high,excellent,strong,medium,devops engineer
+art,advanced,office,phd,introvert,creative,very high,poor,collaborative,exceptional,research scientist
+business,advanced,flexible,phd,extrovert,practical,low,outstanding,moderate,medium,solutions architect
+technology,beginner,solo,high school,leader,practical,high,average,collaborative,exceptional,technical writer
+science,advanced,office,bachelors,thinker,analytical,high,poor,strong,exceptional,research scientist
+art,advanced,flexible,high school,leader,analytical,medium,fluent,collaborative,very high,nlp engineer
+science,beginner,remote,diploma,leader,logical,low,average,visionary,low,computer vision engineer
+art,expert,flexible,high school,thinker,logical,medium,poor,collaborative,very high,virtual reality developer
+science,beginner,remote,diploma,extrovert,creative,high,excellent,strong,high,nlp engineer
+medicine,intermediate,office,high school,thinker,practical,high,excellent,collaborative,medium,algorithm engineer
+art,beginner,office,bachelors,doer,intuitive,medium,excellent,strong,low,virtual reality developer
+medicine,intermediate,solo,phd,extrovert,practical,high,average,collaborative,low,virtual reality developer
+technology,advanced,remote,diploma,doer,logical,medium,average,collaborative,exceptional,automation engineer
+business,advanced,solo,phd,introvert,intuitive,medium,outstanding,collaborative,low,product manager
+medicine,beginner,solo,high school,thinker,practical,medium,average,visionary,high,full stack developer
+technology,beginner,office,masters,thinker,intuitive,low,poor,collaborative,exceptional,robotics engineer
+medicine,advanced,remote,high school,thinker,analytical,high,average,strong,medium,cybersecurity analyst
+technology,advanced,solo,high school,doer,intuitive,medium,fluent,strong,medium,financial analyst
+medicine,intermediate,solo,bachelors,doer,practical,low,average,collaborative,very high,data analyst
+art,advanced,solo,phd,extrovert,logical,high,excellent,strong,low,algorithm engineer
+business,expert,office,diploma,extrovert,intuitive,high,average,collaborative,high,data engineer
+science,beginner,solo,phd,doer,intuitive,high,average,visionary,exceptional,hardware engineer
+art,advanced,solo,high school,introvert,creative,high,average,visionary,low,speech recognition specialist
+science,expert,office,diploma,introvert,logical,high,poor,strong,low,software engineer
+technology,advanced,team,high school,introvert,creative,low,fluent,collaborative,very high,automation engineer
+technology,expert,team,high school,thinker,creative,very high,average,moderate,exceptional,ui/ux designer
+art,expert,remote,phd,leader,logical,very high,excellent,collaborative,medium,ai researcher
+medicine,advanced,team,high school,thinker,intuitive,high,poor,collaborative,low,bioinformatics scientist
+business,advanced,office,diploma,doer,logical,high,excellent,collaborative,low,web developer
+art,advanced,solo,high school,introvert,logical,low,average,visionary,low,mobile app developer
+business,expert,solo,masters,leader,logical,high,fluent,collaborative,medium,database administrator
+science,advanced,solo,phd,thinker,analytical,high,excellent,moderate,high,product manager
+business,advanced,team,phd,leader,logical,low,poor,visionary,high,product manager
+art,intermediate,office,masters,leader,logical,low,outstanding,collaborative,very high,deep learning engineer
+technology,intermediate,solo,bachelors,doer,practical,low,excellent,strong,low,software engineer
+technology,advanced,team,phd,thinker,creative,medium,average,visionary,high,ui/ux designer
+medicine,advanced,solo,bachelors,extrovert,analytical,medium,average,strong,medium,site reliability engineer
+art,beginner,remote,phd,leader,practical,very high,excellent,strong,very high,augmented reality developer
+science,advanced,solo,bachelors,doer,intuitive,medium,outstanding,strong,low,technical writer
+art,advanced,solo,masters,leader,logical,high,outstanding,strong,high,bioinformatics scientist
+science,beginner,solo,high school,extrovert,logical,medium,excellent,collaborative,high,game developer
+science,advanced,team,masters,leader,intuitive,high,average,strong,low,software engineer
+technology,intermediate,solo,phd,thinker,creative,high,average,strong,very high,algorithm engineer
+science,intermediate,team,bachelors,thinker,logical,high,fluent,moderate,medium,data analyst
+technology,advanced,flexible,phd,extrovert,analytical,high,excellent,moderate,low,solutions architect
+technology,expert,solo,phd,leader,intuitive,medium,average,visionary,high,cloud architect
+technology,expert,solo,phd,thinker,logical,high,poor,collaborative,low,data analyst
+medicine,advanced,solo,masters,extrovert,intuitive,very high,average,moderate,high,data engineer
+business,expert,team,high school,thinker,practical,high,average,strong,high,ml engineer
+business,beginner,solo,masters,introvert,creative,high,outstanding,strong,medium,full stack developer
+medicine,beginner,team,bachelors,introvert,intuitive,very high,excellent,collaborative,high,business analyst
+science,advanced,solo,diploma,introvert,creative,high,outstanding,moderate,very high,product manager
+medicine,beginner,team,diploma,introvert,creative,low,average,strong,low,algorithm engineer
+science,beginner,solo,bachelors,doer,analytical,low,average,moderate,low,robotics engineer
+technology,advanced,remote,phd,introvert,creative,high,average,visionary,low,financial analyst
+technology,advanced,flexible,phd,doer,intuitive,high,excellent,strong,medium,data engineer
+art,intermediate,solo,bachelors,thinker,creative,low,fluent,strong,high,data scientist
+art,advanced,remote,diploma,thinker,creative,low,poor,collaborative,high,nlp engineer
+science,expert,solo,masters,thinker,creative,very high,average,moderate,medium,system architect
+art,advanced,flexible,phd,extrovert,analytical,very high,poor,strong,medium,product manager
+business,advanced,remote,phd,extrovert,logical,high,fluent,collaborative,exceptional,ai ethics researcher
+business,advanced,solo,high school,doer,logical,high,poor,strong,very high,blockchain developer
+medicine,beginner,solo,phd,extrovert,analytical,high,excellent,visionary,high,hardware engineer
+business,advanced,remote,high school,introvert,intuitive,high,poor,collaborative,very high,full stack developer
+technology,intermediate,remote,high school,thinker,intuitive,high,outstanding,collaborative,medium,hardware engineer
+art,beginner,solo,phd,extrovert,logical,low,outstanding,visionary,very high,computer vision engineer
+technology,advanced,remote,phd,doer,practical,low,fluent,moderate,very high,game developer
+technology,intermediate,office,bachelors,extrovert,practical,high,average,visionary,very high,product manager
+art,expert,flexible,phd,thinker,logical,low,fluent,collaborative,medium,network engineer
+technology,expert,flexible,masters,thinker,logical,medium,excellent,visionary,very high,financial analyst
+technology,advanced,remote,masters,introvert,logical,high,excellent,collaborative,medium,cybersecurity analyst
+art,expert,solo,bachelors,extrovert,intuitive,medium,average,collaborative,very high,robotics engineer
+art,expert,remote,diploma,thinker,creative,high,excellent,visionary,exceptional,speech recognition specialist
+technology,expert,flexible,high school,doer,intuitive,medium,outstanding,moderate,high,financial analyst
+medicine,advanced,remote,phd,extrovert,intuitive,very high,poor,collaborative,low,cloud architect
+science,expert,remote,bachelors,extrovert,practical,high,poor,collaborative,very high,hardware engineer
+technology,advanced,solo,diploma,leader,intuitive,medium,poor,visionary,high,qa engineer
+business,intermediate,remote,phd,thinker,analytical,medium,average,moderate,exceptional,mobile app developer
+business,expert,office,high school,extrovert,intuitive,very high,poor,collaborative,high,solutions architect
+technology,expert,office,high school,leader,creative,high,poor,collaborative,medium,web developer
+art,advanced,solo,high school,extrovert,creative,very high,excellent,collaborative,low,software engineer
+technology,intermediate,remote,masters,introvert,creative,high,average,collaborative,exceptional,web developer
+science,advanced,team,diploma,doer,practical,high,excellent,collaborative,low,algorithm engineer
+science,expert,office,phd,thinker,creative,high,excellent,strong,very high,ui/ux designer
+art,intermediate,team,diploma,thinker,creative,medium,fluent,moderate,very high,iot specialist
+art,intermediate,flexible,diploma,leader,intuitive,low,outstanding,collaborative,low,solutions architect
+science,advanced,remote,phd,introvert,logical,high,outstanding,moderate,very high,speech recognition specialist
+science,intermediate,office,bachelors,introvert,intuitive,high,fluent,collaborative,high,nlp engineer
+art,expert,office,phd,thinker,logical,low,excellent,collaborative,very high,cybersecurity analyst
+medicine,beginner,flexible,high school,leader,logical,low,outstanding,moderate,medium,iot specialist
+technology,expert,remote,bachelors,introvert,analytical,high,fluent,moderate,high,solutions architect
+business,expert,office,high school,introvert,analytical,low,outstanding,moderate,high,financial analyst
+art,advanced,team,bachelors,doer,creative,high,excellent,visionary,high,database administrator
+technology,advanced,office,phd,thinker,practical,high,poor,strong,low,computer vision engineer
+medicine,intermediate,solo,diploma,thinker,creative,high,poor,moderate,exceptional,business analyst
+art,beginner,flexible,masters,thinker,practical,very high,poor,visionary,very high,full stack developer
+art,beginner,office,bachelors,thinker,practical,medium,average,moderate,very high,software engineer
+medicine,advanced,team,masters,doer,creative,high,average,strong,high,deep learning engineer
+science,expert,flexible,phd,extrovert,logical,low,poor,moderate,exceptional,system architect
+science,advanced,solo,masters,doer,practical,medium,average,strong,very high,business analyst
+business,advanced,office,phd,introvert,practical,low,fluent,collaborative,medium,mobile app developer
+medicine,intermediate,flexible,bachelors,leader,logical,low,average,visionary,medium,hardware engineer
+technology,advanced,flexible,phd,extrovert,intuitive,high,poor,moderate,exceptional,hardware engineer
+technology,intermediate,office,masters,extrovert,logical,high,outstanding,collaborative,very high,computer vision engineer
+medicine,advanced,flexible,high school,thinker,practical,low,average,collaborative,high,automation engineer
+medicine,intermediate,team,bachelors,thinker,logical,very high,outstanding,moderate,low,ui/ux designer
+medicine,intermediate,flexible,phd,doer,creative,very high,outstanding,collaborative,exceptional,ml engineer
+art,intermediate,remote,diploma,doer,practical,very high,outstanding,collaborative,low,mobile app developer
+science,beginner,team,bachelors,leader,analytical,high,outstanding,visionary,very high,mobile app developer
+science,advanced,team,bachelors,extrovert,creative,high,poor,moderate,medium,ai ethics researcher
+science,intermediate,team,bachelors,doer,logical,high,outstanding,collaborative,medium,iot specialist
+science,beginner,remote,high school,thinker,logical,high,outstanding,collaborative,exceptional,full stack developer
+technology,advanced,office,bachelors,thinker,intuitive,medium,outstanding,strong,low,mobile app developer
+business,beginner,remote,high school,leader,creative,very high,average,collaborative,low,product manager
+technology,advanced,remote,phd,doer,creative,high,outstanding,collaborative,high,deep learning engineer
+technology,intermediate,remote,masters,leader,creative,low,average,collaborative,very high,robotics engineer
+technology,intermediate,office,phd,doer,practical,medium,outstanding,strong,medium,technical writer
+science,expert,flexible,diploma,doer,practical,high,average,visionary,high,software engineer
+medicine,expert,remote,high school,extrovert,creative,high,outstanding,moderate,high,solutions architect
+technology,advanced,remote,bachelors,thinker,logical,very high,outstanding,visionary,exceptional,site reliability engineer
+art,intermediate,remote,phd,doer,intuitive,high,fluent,visionary,very high,data engineer
+medicine,advanced,remote,masters,extrovert,logical,medium,outstanding,moderate,exceptional,augmented reality developer
+art,advanced,solo,diploma,doer,practical,high,average,visionary,very high,embedded systems engineer
+science,beginner,remote,masters,doer,practical,very high,poor,strong,exceptional,ui/ux designer
+art,advanced,office,phd,introvert,intuitive,medium,average,visionary,exceptional,devops engineer
+business,intermediate,solo,phd,doer,intuitive,high,fluent,visionary,high,cybersecurity analyst
+business,advanced,flexible,diploma,thinker,intuitive,medium,fluent,moderate,exceptional,speech recognition specialist
+science,advanced,office,bachelors,introvert,logical,very high,excellent,visionary,high,mobile app developer
+medicine,beginner,remote,bachelors,leader,intuitive,medium,fluent,collaborative,medium,technical writer
+art,advanced,solo,phd,extrovert,creative,high,excellent,visionary,exceptional,business analyst
+science,expert,remote,phd,thinker,analytical,medium,average,moderate,very high,bioinformatics scientist
+art,expert,solo,bachelors,leader,logical,medium,fluent,strong,exceptional,ui/ux designer
+medicine,beginner,team,diploma,thinker,intuitive,low,fluent,collaborative,exceptional,cybersecurity analyst
+medicine,beginner,remote,diploma,introvert,analytical,high,excellent,strong,medium,data engineer
+business,expert,team,masters,doer,analytical,medium,outstanding,collaborative,medium,cybersecurity analyst
+art,intermediate,solo,phd,introvert,intuitive,high,outstanding,strong,high,technical writer
+technology,advanced,flexible,high school,doer,practical,medium,fluent,moderate,very high,blockchain developer
+technology,intermediate,remote,high school,thinker,creative,high,outstanding,moderate,medium,data analyst
+science,intermediate,office,diploma,thinker,practical,high,average,collaborative,low,business analyst
+technology,beginner,team,masters,extrovert,intuitive,very high,fluent,collaborative,very high,cybersecurity analyst
+technology,beginner,remote,high school,leader,creative,medium,average,collaborative,medium,solutions architect
+medicine,beginner,office,bachelors,introvert,intuitive,high,average,visionary,high,system architect
+medicine,advanced,flexible,phd,extrovert,analytical,high,excellent,collaborative,low,speech recognition specialist
+technology,beginner,solo,bachelors,introvert,logical,medium,fluent,moderate,low,deep learning engineer
+business,beginner,office,diploma,introvert,intuitive,low,poor,strong,medium,mobile app developer
+business,advanced,office,phd,extrovert,intuitive,low,outstanding,collaborative,low,system architect
+medicine,advanced,office,bachelors,introvert,analytical,high,fluent,moderate,exceptional,product manager
+technology,intermediate,remote,high school,leader,creative,medium,outstanding,collaborative,very high,product manager
+technology,intermediate,office,high school,thinker,analytical,high,poor,collaborative,medium,financial analyst
+business,intermediate,office,high school,introvert,analytical,medium,average,moderate,high,computer vision engineer
+art,intermediate,solo,masters,doer,analytical,high,poor,visionary,high,cloud architect
+business,beginner,remote,high school,introvert,intuitive,medium,poor,collaborative,exceptional,ml engineer
+technology,expert,office,masters,thinker,creative,low,fluent,collaborative,exceptional,cybersecurity analyst
+technology,advanced,remote,bachelors,introvert,intuitive,low,average,moderate,very high,business analyst
+medicine,expert,office,high school,doer,practical,high,excellent,strong,very high,research scientist
+medicine,intermediate,flexible,phd,thinker,creative,high,excellent,visionary,high,business analyst
+science,advanced,team,bachelors,introvert,intuitive,medium,excellent,collaborative,medium,devops engineer
+science,advanced,team,diploma,extrovert,practical,high,average,collaborative,exceptional,game developer
+medicine,expert,team,diploma,introvert,logical,very high,poor,collaborative,very high,software engineer
+business,advanced,flexible,masters,doer,practical,low,fluent,moderate,high,devops engineer
+medicine,advanced,team,diploma,leader,intuitive,low,excellent,moderate,high,cybersecurity analyst
+business,beginner,remote,diploma,thinker,analytical,high,average,moderate,very high,web developer
+science,beginner,remote,high school,leader,intuitive,high,fluent,strong,medium,database administrator
+technology,intermediate,office,phd,thinker,analytical,high,excellent,collaborative,high,hardware engineer
+medicine,expert,remote,high school,leader,analytical,high,average,strong,high,web developer
+business,beginner,office,masters,introvert,creative,medium,outstanding,collaborative,very high,iot specialist
+technology,advanced,office,bachelors,leader,creative,high,outstanding,collaborative,very high,robotics engineer
+technology,beginner,remote,bachelors,extrovert,intuitive,high,poor,collaborative,medium,ml engineer
+medicine,advanced,office,masters,doer,creative,high,average,collaborative,low,data engineer
+art,advanced,remote,diploma,extrovert,practical,low,fluent,collaborative,high,algorithm engineer
+medicine,advanced,flexible,high school,introvert,practical,very high,fluent,moderate,exceptional,cloud architect
+medicine,beginner,office,high school,introvert,creative,high,fluent,moderate,exceptional,virtual reality developer
+technology,advanced,remote,masters,thinker,creative,low,excellent,collaborative,high,algorithm engineer
+technology,advanced,remote,bachelors,introvert,practical,very high,excellent,visionary,low,nlp engineer
+technology,advanced,solo,high school,leader,intuitive,medium,average,strong,low,data engineer
+technology,advanced,team,masters,doer,analytical,high,poor,visionary,very high,virtual reality developer
+medicine,advanced,flexible,bachelors,doer,analytical,medium,poor,collaborative,exceptional,speech recognition specialist
+science,advanced,remote,bachelors,introvert,analytical,low,poor,collaborative,medium,algorithm engineer
+art,advanced,flexible,masters,extrovert,creative,very high,excellent,collaborative,exceptional,solutions architect
+technology,advanced,flexible,high school,introvert,practical,medium,excellent,moderate,high,deep learning engineer
+art,intermediate,office,diploma,thinker,creative,medium,fluent,collaborative,high,financial analyst
+medicine,expert,team,phd,leader,practical,low,poor,strong,low,mobile app developer
+art,advanced,office,phd,leader,analytical,medium,average,strong,exceptional,ml engineer
+medicine,advanced,team,high school,extrovert,practical,medium,outstanding,collaborative,very high,hardware engineer
+medicine,intermediate,remote,high school,extrovert,logical,very high,excellent,visionary,high,data scientist
+technology,intermediate,team,masters,leader,logical,high,outstanding,moderate,very high,solutions architect
+science,intermediate,solo,masters,doer,practical,high,fluent,collaborative,medium,bioinformatics scientist
+technology,expert,remote,high school,leader,intuitive,high,poor,strong,medium,full stack developer
+art,intermediate,team,masters,doer,intuitive,low,outstanding,visionary,exceptional,database administrator
+business,expert,solo,bachelors,thinker,analytical,low,fluent,moderate,low,ui/ux designer
+science,intermediate,flexible,bachelors,leader,intuitive,low,fluent,moderate,medium,network engineer
+art,advanced,office,masters,leader,creative,low,outstanding,strong,high,bioinformatics scientist
+business,beginner,flexible,phd,leader,creative,high,outstanding,collaborative,high,technical writer
+science,expert,office,diploma,doer,creative,medium,excellent,moderate,low,data engineer
+technology,beginner,team,diploma,introvert,logical,medium,fluent,collaborative,very high,algorithm engineer
+business,expert,team,bachelors,extrovert,practical,very high,excellent,moderate,very high,product manager
+business,expert,flexible,bachelors,doer,creative,high,outstanding,strong,very high,computer vision engineer
+art,advanced,solo,high school,extrovert,practical,very high,fluent,strong,very high,ai ethics researcher
+medicine,beginner,team,bachelors,leader,practical,low,fluent,moderate,medium,ml engineer
+medicine,advanced,flexible,bachelors,extrovert,creative,very high,average,strong,medium,site reliability engineer
+science,beginner,remote,diploma,doer,practical,high,outstanding,visionary,high,financial analyst
+science,beginner,team,diploma,doer,practical,low,fluent,visionary,medium,nlp engineer
+technology,beginner,team,high school,introvert,intuitive,medium,average,visionary,medium,devops engineer
+science,intermediate,remote,diploma,extrovert,logical,very high,poor,collaborative,medium,devops engineer
+technology,intermediate,remote,high school,extrovert,analytical,high,excellent,moderate,high,ai researcher
+art,intermediate,flexible,bachelors,extrovert,logical,very high,poor,visionary,high,robotics engineer
+art,intermediate,solo,high school,leader,logical,high,average,strong,high,network engineer
+medicine,intermediate,team,phd,doer,analytical,medium,average,strong,high,speech recognition specialist
+business,advanced,office,bachelors,extrovert,practical,very high,outstanding,visionary,medium,technical writer
+business,advanced,remote,high school,thinker,creative,high,excellent,collaborative,low,data scientist
+technology,advanced,office,bachelors,introvert,analytical,very high,excellent,visionary,high,ai ethics researcher
+technology,intermediate,flexible,masters,thinker,creative,medium,average,collaborative,medium,technical writer
+medicine,beginner,solo,bachelors,extrovert,logical,medium,fluent,visionary,low,data engineer
+medicine,expert,solo,phd,doer,creative,high,outstanding,collaborative,high,business analyst
+medicine,beginner,remote,diploma,introvert,logical,high,average,visionary,very high,site reliability engineer
+business,advanced,team,masters,introvert,intuitive,medium,poor,collaborative,high,speech recognition specialist
+technology,advanced,office,bachelors,leader,logical,low,average,strong,exceptional,financial analyst
+technology,beginner,office,phd,extrovert,intuitive,very high,outstanding,strong,low,devops engineer
+business,advanced,flexible,high school,introvert,analytical,very high,excellent,collaborative,very high,embedded systems engineer
+technology,beginner,office,masters,leader,logical,high,fluent,moderate,medium,hardware engineer
+science,advanced,office,bachelors,extrovert,intuitive,medium,outstanding,collaborative,high,speech recognition specialist
+science,beginner,team,phd,extrovert,practical,high,excellent,visionary,medium,augmented reality developer
+medicine,intermediate,team,diploma,introvert,practical,low,average,visionary,exceptional,deep learning engineer
+science,advanced,team,diploma,extrovert,logical,very high,poor,collaborative,high,speech recognition specialist
+technology,intermediate,solo,masters,introvert,logical,medium,poor,collaborative,very high,cloud architect
+science,advanced,remote,high school,extrovert,analytical,high,fluent,collaborative,low,solutions architect
+business,intermediate,solo,high school,doer,intuitive,low,average,strong,exceptional,technical writer
+art,advanced,solo,phd,thinker,intuitive,high,poor,strong,exceptional,qa engineer
+art,intermediate,remote,masters,extrovert,creative,high,outstanding,strong,low,network engineer
+medicine,advanced,solo,phd,extrovert,intuitive,high,outstanding,visionary,low,full stack developer
+art,advanced,remote,masters,extrovert,analytical,very high,average,moderate,low,cloud architect
+business,beginner,flexible,diploma,introvert,creative,high,poor,moderate,exceptional,cybersecurity analyst
+art,intermediate,office,bachelors,leader,intuitive,very high,outstanding,collaborative,low,database administrator
+technology,advanced,flexible,bachelors,extrovert,creative,high,outstanding,moderate,low,database administrator
+medicine,beginner,solo,diploma,thinker,analytical,high,excellent,collaborative,medium,solutions architect
+technology,advanced,flexible,high school,leader,analytical,low,poor,visionary,very high,blockchain developer
+science,expert,solo,masters,extrovert,creative,very high,fluent,collaborative,high,database administrator
+technology,beginner,remote,high school,leader,intuitive,low,average,moderate,medium,solutions architect
+science,advanced,flexible,bachelors,extrovert,analytical,low,excellent,visionary,very high,product manager
+technology,advanced,flexible,phd,thinker,creative,low,outstanding,visionary,exceptional,automation engineer
+business,advanced,remote,phd,doer,practical,high,outstanding,moderate,very high,data scientist
+business,beginner,remote,masters,thinker,intuitive,medium,average,collaborative,low,full stack developer
+business,advanced,team,diploma,introvert,intuitive,high,excellent,moderate,very high,game developer
+science,expert,solo,bachelors,doer,practical,high,fluent,moderate,medium,hardware engineer
+science,expert,solo,diploma,thinker,practical,high,fluent,strong,very high,hardware engineer
+technology,beginner,solo,diploma,introvert,logical,high,fluent,collaborative,very high,data scientist
+medicine,expert,solo,bachelors,introvert,intuitive,high,outstanding,strong,high,iot specialist
+science,beginner,remote,high school,doer,intuitive,very high,outstanding,collaborative,very high,automation engineer
+medicine,beginner,team,masters,thinker,intuitive,very high,excellent,collaborative,low,data analyst
+business,beginner,solo,diploma,leader,analytical,high,poor,collaborative,very high,web developer
+medicine,advanced,office,diploma,extrovert,intuitive,medium,poor,strong,low,network engineer
+art,expert,flexible,diploma,doer,creative,low,poor,strong,exceptional,embedded systems engineer
+science,advanced,remote,bachelors,introvert,creative,medium,average,strong,very high,embedded systems engineer
+business,intermediate,flexible,high school,thinker,practical,low,average,collaborative,medium,technical writer
+art,beginner,team,masters,thinker,creative,low,excellent,collaborative,high,nlp engineer
+technology,beginner,team,diploma,extrovert,intuitive,medium,excellent,moderate,low,automation engineer
+business,beginner,team,phd,extrovert,analytical,low,poor,strong,medium,nlp engineer
+art,expert,flexible,bachelors,introvert,logical,low,excellent,collaborative,low,devops engineer
+art,beginner,solo,high school,doer,practical,high,excellent,strong,very high,system architect
+science,beginner,team,diploma,doer,practical,very high,fluent,collaborative,low,cybersecurity analyst
+medicine,intermediate,solo,masters,introvert,intuitive,high,excellent,collaborative,very high,algorithm engineer
+technology,intermediate,flexible,phd,extrovert,practical,high,poor,strong,low,software engineer
+art,advanced,remote,diploma,leader,analytical,high,fluent,strong,high,blockchain developer
+medicine,advanced,remote,bachelors,leader,intuitive,high,outstanding,strong,very high,game developer
+medicine,intermediate,remote,bachelors,extrovert,creative,low,outstanding,visionary,very high,embedded systems engineer
+science,advanced,office,phd,thinker,intuitive,high,outstanding,visionary,medium,algorithm engineer
+science,intermediate,flexible,diploma,leader,analytical,low,average,visionary,very high,product manager
+science,intermediate,office,bachelors,leader,practical,low,poor,collaborative,low,devops engineer
+technology,advanced,team,bachelors,extrovert,logical,very high,average,collaborative,medium,ai researcher
+science,intermediate,flexible,masters,leader,logical,medium,average,collaborative,exceptional,business analyst
+business,advanced,flexible,masters,doer,logical,medium,excellent,moderate,low,bioinformatics scientist
+medicine,beginner,team,high school,doer,creative,high,outstanding,visionary,medium,hardware engineer
+business,expert,flexible,masters,doer,creative,low,excellent,strong,low,augmented reality developer
+art,beginner,team,high school,leader,analytical,high,poor,moderate,medium,augmented reality developer
+science,advanced,remote,bachelors,leader,practical,very high,fluent,moderate,very high,algorithm engineer
+art,beginner,team,diploma,thinker,intuitive,very high,excellent,moderate,very high,ai researcher
+business,advanced,solo,diploma,introvert,practical,high,poor,visionary,low,site reliability engineer
+medicine,beginner,team,bachelors,thinker,analytical,high,fluent,collaborative,medium,product manager
+business,advanced,office,high school,leader,analytical,medium,fluent,strong,very high,ai researcher
+business,expert,office,high school,leader,intuitive,very high,fluent,collaborative,medium,automation engineer
+business,advanced,flexible,masters,thinker,practical,low,poor,moderate,high,devops engineer
+medicine,advanced,remote,high school,thinker,analytical,high,excellent,strong,low,blockchain developer
+medicine,beginner,team,phd,doer,logical,low,average,moderate,medium,data engineer
+science,beginner,solo,bachelors,doer,logical,medium,average,collaborative,very high,product manager
+business,advanced,solo,diploma,extrovert,creative,high,poor,collaborative,exceptional,data scientist
+technology,expert,flexible,masters,extrovert,intuitive,high,outstanding,moderate,exceptional,ai ethics researcher
+science,beginner,office,phd,thinker,analytical,low,average,collaborative,high,nlp engineer
+science,intermediate,flexible,diploma,introvert,logical,very high,outstanding,moderate,high,automation engineer
+art,advanced,flexible,phd,introvert,analytical,low,fluent,visionary,exceptional,site reliability engineer
+technology,beginner,office,phd,introvert,intuitive,medium,poor,strong,low,ui/ux designer
+business,advanced,solo,high school,thinker,analytical,high,fluent,collaborative,medium,iot specialist
+science,intermediate,team,diploma,doer,creative,high,average,visionary,medium,robotics engineer
+science,advanced,team,diploma,doer,logical,high,poor,collaborative,very high,augmented reality developer
+technology,intermediate,flexible,diploma,thinker,practical,high,average,visionary,very high,ml engineer
+art,beginner,remote,high school,extrovert,intuitive,medium,excellent,strong,medium,cloud architect
+art,expert,office,high school,extrovert,creative,low,average,collaborative,medium,augmented reality developer
+technology,expert,office,high school,thinker,intuitive,high,fluent,collaborative,high,web developer
+art,advanced,flexible,phd,introvert,creative,high,outstanding,strong,high,technical writer
+medicine,advanced,team,high school,doer,practical,high,fluent,visionary,low,data scientist
+art,beginner,remote,bachelors,thinker,creative,medium,poor,strong,high,automation engineer
+art,advanced,team,high school,extrovert,creative,high,poor,collaborative,low,virtual reality developer
+art,expert,solo,phd,introvert,practical,high,poor,collaborative,low,technical writer
+technology,beginner,flexible,bachelors,extrovert,analytical,medium,fluent,moderate,medium,solutions architect
+art,expert,solo,high school,introvert,logical,very high,fluent,collaborative,very high,technical writer
+technology,advanced,team,masters,extrovert,practical,medium,poor,collaborative,exceptional,robotics engineer
+business,intermediate,office,phd,extrovert,logical,high,excellent,visionary,low,qa engineer
+business,beginner,remote,masters,thinker,intuitive,low,average,visionary,high,data scientist
+science,advanced,solo,phd,extrovert,intuitive,medium,average,collaborative,high,algorithm engineer
+art,beginner,team,bachelors,doer,logical,medium,average,collaborative,low,devops engineer
+medicine,advanced,flexible,phd,introvert,creative,medium,excellent,collaborative,low,ai researcher
+medicine,intermediate,remote,high school,thinker,creative,medium,outstanding,collaborative,high,financial analyst
+art,beginner,solo,diploma,introvert,practical,high,outstanding,strong,medium,ml engineer
+medicine,beginner,remote,bachelors,introvert,creative,medium,outstanding,visionary,high,system architect
+business,beginner,flexible,diploma,extrovert,intuitive,high,poor,collaborative,medium,blockchain developer
+art,advanced,flexible,bachelors,introvert,intuitive,low,excellent,collaborative,very high,bioinformatics scientist
+business,advanced,solo,diploma,doer,analytical,medium,poor,collaborative,exceptional,system architect
+medicine,beginner,solo,diploma,extrovert,analytical,high,poor,strong,high,augmented reality developer
+technology,expert,team,masters,extrovert,practical,high,poor,strong,exceptional,full stack developer
+technology,advanced,office,diploma,extrovert,logical,low,average,collaborative,high,data scientist
+medicine,advanced,team,bachelors,introvert,logical,low,outstanding,strong,exceptional,web developer
+business,expert,solo,high school,leader,creative,medium,fluent,collaborative,medium,product manager
+art,intermediate,team,bachelors,leader,intuitive,medium,poor,moderate,very high,database administrator
+medicine,advanced,solo,diploma,extrovert,intuitive,high,excellent,strong,low,virtual reality developer
+art,beginner,office,masters,leader,practical,very high,fluent,collaborative,exceptional,site reliability engineer
+business,beginner,flexible,bachelors,thinker,intuitive,high,poor,strong,medium,software engineer
+business,expert,office,diploma,extrovert,analytical,low,poor,visionary,exceptional,ai researcher
+art,advanced,office,masters,extrovert,logical,very high,excellent,collaborative,very high,system architect
+medicine,intermediate,flexible,diploma,introvert,intuitive,very high,excellent,strong,low,algorithm engineer
+medicine,expert,solo,high school,extrovert,intuitive,very high,average,collaborative,high,ui/ux designer
+business,advanced,office,phd,introvert,analytical,high,excellent,strong,very high,research scientist
+business,beginner,office,masters,leader,logical,low,outstanding,collaborative,high,hardware engineer
+medicine,expert,remote,phd,doer,logical,very high,poor,collaborative,very high,speech recognition specialist
+technology,expert,team,phd,leader,logical,low,average,moderate,high,devops engineer
+medicine,advanced,flexible,phd,thinker,practical,low,excellent,moderate,low,qa engineer
+business,beginner,solo,masters,introvert,practical,low,excellent,collaborative,low,augmented reality developer
+science,beginner,team,phd,doer,intuitive,high,excellent,visionary,high,cybersecurity analyst
+business,advanced,office,masters,thinker,practical,medium,excellent,strong,very high,computer vision engineer
+medicine,intermediate,remote,phd,leader,analytical,very high,average,collaborative,low,deep learning engineer
+art,advanced,solo,diploma,doer,creative,low,average,moderate,low,network engineer
+business,intermediate,team,high school,introvert,analytical,very high,excellent,collaborative,exceptional,computer vision engineer
+science,beginner,team,diploma,extrovert,creative,high,average,strong,very high,network engineer
+medicine,advanced,remote,bachelors,doer,intuitive,very high,fluent,collaborative,high,data engineer
+business,advanced,office,phd,thinker,intuitive,medium,outstanding,collaborative,medium,ui/ux designer
+art,intermediate,team,diploma,introvert,analytical,high,fluent,collaborative,exceptional,business analyst
+art,advanced,flexible,high school,leader,intuitive,high,fluent,moderate,low,financial analyst
+art,advanced,flexible,masters,introvert,practical,low,average,strong,high,deep learning engineer
+science,intermediate,team,diploma,extrovert,practical,high,poor,collaborative,low,full stack developer
+science,advanced,team,bachelors,introvert,intuitive,low,excellent,collaborative,medium,deep learning engineer
+technology,expert,flexible,high school,doer,creative,very high,fluent,collaborative,low,mobile app developer
+medicine,advanced,team,phd,leader,logical,high,excellent,moderate,low,system architect
+business,intermediate,team,masters,leader,analytical,high,excellent,strong,high,virtual reality developer
+medicine,advanced,office,phd,thinker,practical,very high,outstanding,strong,low,nlp engineer
+technology,intermediate,flexible,bachelors,introvert,intuitive,low,fluent,moderate,exceptional,business analyst
+science,advanced,team,phd,leader,creative,very high,fluent,strong,exceptional,data analyst
+medicine,advanced,team,masters,introvert,logical,high,poor,visionary,medium,cloud architect
+business,expert,flexible,bachelors,extrovert,analytical,high,outstanding,strong,exceptional,site reliability engineer
+medicine,expert,team,phd,thinker,creative,high,poor,collaborative,exceptional,augmented reality developer
+technology,advanced,remote,diploma,leader,analytical,high,outstanding,visionary,medium,ai researcher
+science,beginner,team,masters,thinker,logical,high,fluent,moderate,very high,virtual reality developer
+science,expert,flexible,high school,doer,intuitive,low,excellent,moderate,exceptional,data analyst
+science,intermediate,office,high school,thinker,intuitive,high,poor,collaborative,low,mobile app developer
+business,advanced,team,bachelors,extrovert,logical,high,fluent,strong,high,ai ethics researcher
+science,intermediate,solo,masters,doer,analytical,high,outstanding,collaborative,very high,technical writer
+medicine,advanced,remote,high school,introvert,practical,high,outstanding,collaborative,medium,mobile app developer
+business,intermediate,remote,phd,extrovert,creative,high,fluent,collaborative,exceptional,system architect
+technology,advanced,office,diploma,introvert,logical,high,poor,moderate,exceptional,qa engineer
+art,beginner,solo,bachelors,thinker,practical,high,average,moderate,low,network engineer
+art,advanced,office,diploma,thinker,analytical,medium,average,moderate,exceptional,cloud architect
+business,advanced,remote,high school,introvert,intuitive,high,outstanding,moderate,medium,computer vision engineer
+technology,intermediate,remote,high school,leader,intuitive,medium,excellent,visionary,exceptional,web developer
+art,expert,team,diploma,doer,practical,low,excellent,visionary,low,cloud architect
+business,beginner,office,high school,doer,intuitive,medium,poor,strong,high,ml engineer
+technology,intermediate,remote,phd,introvert,intuitive,low,average,visionary,high,hardware engineer
+science,expert,office,bachelors,extrovert,analytical,high,outstanding,visionary,exceptional,data analyst
+science,advanced,team,high school,thinker,intuitive,very high,excellent,collaborative,low,ui/ux designer
+science,expert,team,diploma,doer,logical,high,fluent,moderate,medium,cloud architect
+business,beginner,office,bachelors,doer,logical,high,excellent,collaborative,high,embedded systems engineer
+science,advanced,team,high school,doer,intuitive,high,poor,collaborative,low,blockchain developer
+medicine,beginner,remote,high school,introvert,practical,low,average,moderate,very high,data scientist
+art,intermediate,flexible,diploma,introvert,analytical,high,poor,moderate,high,ai researcher
+art,intermediate,flexible,masters,thinker,creative,high,poor,visionary,exceptional,ai researcher
+art,intermediate,office,phd,introvert,intuitive,medium,poor,collaborative,medium,business analyst
+art,intermediate,flexible,phd,thinker,intuitive,high,excellent,moderate,exceptional,robotics engineer
+art,expert,office,diploma,leader,analytical,high,average,visionary,low,blockchain developer
+art,advanced,flexible,bachelors,introvert,analytical,very high,average,moderate,exceptional,network engineer
+medicine,beginner,remote,phd,thinker,analytical,low,average,collaborative,low,ml engineer
+medicine,beginner,team,masters,leader,analytical,medium,average,collaborative,low,speech recognition specialist
+art,intermediate,office,masters,introvert,creative,very high,excellent,moderate,low,full stack developer
+technology,advanced,office,masters,extrovert,analytical,medium,average,collaborative,low,robotics engineer
+science,expert,flexible,high school,leader,creative,medium,fluent,visionary,exceptional,nlp engineer
+science,beginner,team,high school,introvert,creative,very high,outstanding,strong,very high,augmented reality developer
+business,advanced,office,high school,introvert,intuitive,low,average,moderate,very high,network engineer
+medicine,advanced,remote,bachelors,extrovert,analytical,low,outstanding,collaborative,medium,data engineer
+art,beginner,flexible,diploma,thinker,creative,very high,excellent,visionary,low,solutions architect
+business,beginner,flexible,bachelors,leader,intuitive,high,excellent,collaborative,very high,full stack developer
+business,beginner,solo,high school,doer,analytical,high,average,collaborative,very high,product manager
+art,advanced,solo,high school,leader,practical,low,outstanding,moderate,low,technical writer
+technology,advanced,flexible,high school,thinker,logical,high,fluent,strong,medium,data analyst
+science,intermediate,office,high school,thinker,creative,high,fluent,visionary,very high,database administrator
+medicine,beginner,office,high school,thinker,creative,low,average,strong,exceptional,game developer
+art,intermediate,remote,diploma,thinker,intuitive,high,excellent,moderate,high,web developer
+medicine,advanced,office,bachelors,thinker,logical,very high,poor,visionary,medium,ui/ux designer
+science,expert,team,diploma,introvert,intuitive,medium,poor,strong,very high,system architect
+business,beginner,office,bachelors,thinker,intuitive,very high,poor,collaborative,exceptional,database administrator
+medicine,expert,office,phd,extrovert,intuitive,high,excellent,collaborative,high,site reliability engineer
+art,intermediate,flexible,bachelors,leader,logical,high,poor,moderate,very high,web developer
+technology,beginner,solo,masters,introvert,intuitive,high,fluent,collaborative,medium,iot specialist
+technology,beginner,remote,bachelors,introvert,practical,high,excellent,collaborative,low,qa engineer
+medicine,intermediate,office,high school,doer,intuitive,medium,average,strong,high,business analyst
+business,expert,remote,diploma,extrovert,intuitive,high,poor,collaborative,very high,cybersecurity analyst
+science,advanced,solo,high school,doer,practical,high,excellent,collaborative,very high,system architect
+medicine,expert,flexible,phd,leader,creative,low,excellent,moderate,high,business analyst
+technology,intermediate,flexible,high school,extrovert,analytical,high,average,visionary,medium,embedded systems engineer
+medicine,beginner,solo,masters,doer,intuitive,high,average,collaborative,low,system architect
+science,beginner,team,masters,leader,intuitive,high,fluent,moderate,low,ai researcher
+art,expert,solo,masters,extrovert,creative,high,poor,collaborative,high,full stack developer
+medicine,beginner,solo,masters,thinker,analytical,low,fluent,visionary,medium,deep learning engineer
+medicine,beginner,remote,high school,extrovert,creative,low,outstanding,strong,medium,devops engineer
+medicine,beginner,flexible,high school,introvert,creative,very high,average,moderate,high,data engineer
+art,expert,flexible,high school,extrovert,intuitive,high,poor,collaborative,low,software engineer
+technology,expert,office,phd,introvert,analytical,medium,excellent,collaborative,very high,hardware engineer
+technology,advanced,flexible,bachelors,introvert,logical,high,poor,strong,exceptional,system architect
+art,advanced,team,high school,introvert,intuitive,low,fluent,moderate,medium,deep learning engineer
+science,beginner,team,bachelors,introvert,logical,very high,outstanding,collaborative,medium,computer vision engineer
+medicine,advanced,remote,high school,introvert,analytical,high,average,moderate,exceptional,nlp engineer
+art,advanced,solo,masters,leader,logical,high,average,strong,low,bioinformatics scientist
+technology,expert,remote,masters,thinker,analytical,very high,outstanding,collaborative,exceptional,bioinformatics scientist
+business,advanced,team,diploma,thinker,creative,medium,poor,visionary,exceptional,business analyst
+science,expert,remote,bachelors,leader,analytical,very high,poor,collaborative,high,data analyst
+science,beginner,remote,bachelors,extrovert,analytical,very high,excellent,collaborative,very high,augmented reality developer
+technology,advanced,team,high school,leader,practical,medium,excellent,visionary,high,research scientist
+business,expert,solo,masters,leader,creative,high,excellent,moderate,exceptional,devops engineer
+art,advanced,office,bachelors,doer,analytical,high,average,moderate,low,embedded systems engineer
+medicine,advanced,flexible,high school,extrovert,creative,high,fluent,moderate,very high,data analyst
+business,expert,solo,phd,introvert,creative,low,average,moderate,exceptional,ai ethics researcher
+technology,advanced,solo,phd,thinker,practical,very high,average,moderate,medium,web developer
+art,expert,office,phd,leader,practical,medium,average,collaborative,very high,algorithm engineer
+medicine,expert,team,bachelors,leader,practical,high,poor,collaborative,high,devops engineer
+business,expert,solo,phd,extrovert,intuitive,low,excellent,collaborative,exceptional,database administrator
+business,advanced,remote,high school,introvert,analytical,very high,fluent,visionary,medium,ai researcher
+technology,intermediate,office,high school,extrovert,practical,low,average,strong,exceptional,devops engineer
+business,intermediate,flexible,bachelors,thinker,intuitive,very high,fluent,strong,medium,deep learning engineer
+business,advanced,flexible,phd,leader,analytical,low,poor,strong,high,data analyst
+art,advanced,flexible,masters,introvert,analytical,very high,excellent,collaborative,low,product manager
+technology,expert,team,phd,extrovert,intuitive,low,excellent,visionary,high,algorithm engineer
+art,advanced,team,diploma,leader,practical,low,fluent,collaborative,exceptional,mobile app developer
+science,advanced,office,phd,introvert,intuitive,high,poor,moderate,exceptional,bioinformatics scientist
+art,advanced,office,bachelors,leader,logical,high,outstanding,strong,low,ai ethics researcher
+business,intermediate,office,high school,thinker,analytical,low,poor,collaborative,very high,automation engineer
+art,intermediate,team,high school,leader,logical,medium,poor,collaborative,high,network engineer
+business,beginner,team,bachelors,extrovert,analytical,medium,outstanding,visionary,high,nlp engineer
+business,expert,remote,high school,leader,analytical,high,fluent,collaborative,medium,deep learning engineer
+medicine,advanced,remote,diploma,thinker,intuitive,high,average,collaborative,low,algorithm engineer
+art,intermediate,solo,high school,thinker,logical,high,average,collaborative,medium,cybersecurity analyst
+technology,beginner,office,phd,thinker,creative,low,poor,strong,low,ai ethics researcher
+science,beginner,team,diploma,leader,logical,low,excellent,strong,exceptional,ai researcher
+science,advanced,solo,diploma,extrovert,intuitive,high,excellent,strong,exceptional,data scientist
+business,intermediate,remote,high school,extrovert,practical,low,poor,collaborative,very high,automation engineer
+technology,intermediate,solo,phd,leader,analytical,very high,average,moderate,high,speech recognition specialist
+medicine,beginner,team,high school,extrovert,practical,high,outstanding,visionary,very high,web developer
+medicine,beginner,team,phd,thinker,intuitive,medium,outstanding,moderate,medium,robotics engineer
+art,expert,remote,bachelors,doer,practical,high,excellent,moderate,high,bioinformatics scientist
+art,advanced,remote,high school,doer,creative,high,average,collaborative,low,qa engineer
+medicine,advanced,flexible,phd,extrovert,logical,medium,average,strong,exceptional,robotics engineer
+science,expert,office,high school,introvert,creative,very high,fluent,strong,high,nlp engineer
+business,beginner,office,masters,leader,logical,low,excellent,visionary,low,robotics engineer
+technology,expert,solo,diploma,introvert,logical,very high,excellent,strong,very high,devops engineer
+business,advanced,remote,phd,introvert,creative,high,poor,strong,low,mobile app developer
+science,beginner,office,phd,introvert,intuitive,high,average,collaborative,exceptional,product manager
+art,intermediate,flexible,masters,doer,intuitive,low,average,collaborative,medium,cybersecurity analyst
+science,intermediate,solo,masters,doer,practical,medium,poor,moderate,exceptional,qa engineer
+technology,advanced,team,masters,doer,creative,high,poor,moderate,high,ui/ux designer
+science,advanced,office,phd,extrovert,intuitive,low,average,collaborative,low,software engineer
+medicine,advanced,remote,high school,doer,intuitive,very high,fluent,moderate,exceptional,computer vision engineer
+business,advanced,remote,high school,doer,creative,high,outstanding,collaborative,very high,web developer
+science,advanced,office,high school,thinker,creative,medium,excellent,strong,medium,qa engineer
+technology,advanced,remote,diploma,thinker,logical,high,outstanding,visionary,exceptional,devops engineer
+medicine,intermediate,solo,bachelors,doer,analytical,low,average,visionary,low,automation engineer
+art,beginner,team,bachelors,leader,creative,medium,fluent,moderate,high,system architect
+science,expert,office,bachelors,thinker,practical,medium,fluent,visionary,exceptional,cybersecurity analyst
+technology,expert,team,masters,thinker,analytical,medium,average,collaborative,high,computer vision engineer
+science,advanced,remote,phd,doer,intuitive,medium,outstanding,visionary,exceptional,ui/ux designer
+business,expert,office,high school,introvert,logical,very high,excellent,collaborative,low,ai researcher
+art,advanced,team,masters,leader,logical,high,fluent,visionary,exceptional,solutions architect
+science,advanced,solo,high school,thinker,logical,high,outstanding,moderate,medium,cybersecurity analyst
+technology,expert,solo,phd,thinker,creative,low,fluent,strong,medium,automation engineer
+science,expert,solo,masters,leader,practical,high,excellent,collaborative,low,business analyst
+medicine,advanced,remote,phd,doer,creative,high,average,collaborative,low,computer vision engineer
+art,expert,team,high school,leader,analytical,medium,excellent,strong,medium,financial analyst
+medicine,expert,remote,masters,thinker,practical,very high,outstanding,collaborative,exceptional,ai ethics researcher
+medicine,advanced,remote,masters,introvert,intuitive,low,excellent,collaborative,low,software engineer
+technology,expert,office,masters,doer,intuitive,high,outstanding,collaborative,high,algorithm engineer
+medicine,intermediate,flexible,masters,thinker,logical,high,outstanding,collaborative,medium,software engineer
+technology,expert,solo,masters,thinker,analytical,very high,excellent,visionary,very high,robotics engineer
+business,beginner,remote,diploma,thinker,intuitive,high,average,collaborative,low,research scientist
+art,intermediate,office,phd,extrovert,practical,low,excellent,strong,medium,cloud architect
+art,intermediate,team,masters,thinker,intuitive,low,poor,visionary,medium,speech recognition specialist
+technology,intermediate,office,diploma,thinker,logical,high,fluent,visionary,medium,cybersecurity analyst
+business,beginner,office,phd,doer,creative,high,fluent,strong,low,ai researcher
+medicine,intermediate,solo,masters,leader,creative,very high,fluent,collaborative,high,full stack developer
+technology,expert,office,phd,extrovert,logical,medium,average,collaborative,medium,business analyst
+medicine,expert,team,high school,thinker,intuitive,medium,outstanding,collaborative,very high,qa engineer
+art,intermediate,team,high school,extrovert,practical,medium,average,collaborative,very high,research scientist
+art,advanced,flexible,masters,leader,practical,high,outstanding,visionary,exceptional,system architect
+business,advanced,office,phd,introvert,practical,medium,outstanding,visionary,high,cybersecurity analyst
+technology,intermediate,flexible,masters,leader,practical,low,poor,collaborative,high,blockchain developer
+science,advanced,solo,masters,extrovert,practical,high,outstanding,moderate,low,speech recognition specialist
+science,advanced,team,masters,thinker,intuitive,high,excellent,visionary,high,data analyst
+medicine,expert,flexible,high school,extrovert,creative,medium,outstanding,visionary,high,financial analyst
+technology,advanced,remote,high school,introvert,intuitive,high,fluent,collaborative,very high,mobile app developer
+business,advanced,office,phd,doer,practical,high,excellent,collaborative,very high,database administrator
+art,advanced,remote,high school,doer,analytical,high,average,collaborative,exceptional,devops engineer
+technology,intermediate,solo,bachelors,introvert,analytical,high,outstanding,moderate,very high,ml engineer
+medicine,advanced,solo,phd,introvert,practical,high,average,collaborative,medium,research scientist
+technology,advanced,solo,bachelors,doer,analytical,very high,excellent,visionary,low,bioinformatics scientist
+medicine,advanced,office,diploma,extrovert,logical,low,poor,visionary,medium,speech recognition specialist
+technology,advanced,solo,high school,introvert,creative,high,excellent,visionary,exceptional,algorithm engineer
+art,beginner,remote,bachelors,doer,logical,high,excellent,strong,medium,data scientist
+medicine,expert,remote,masters,thinker,creative,medium,outstanding,collaborative,exceptional,ui/ux designer
+technology,intermediate,office,high school,thinker,logical,low,poor,collaborative,exceptional,computer vision engineer
+medicine,beginner,team,high school,extrovert,creative,low,fluent,collaborative,low,financial analyst
+technology,beginner,team,diploma,leader,practical,low,fluent,strong,medium,automation engineer
+technology,advanced,team,phd,doer,intuitive,high,poor,collaborative,very high,software engineer
+business,advanced,team,diploma,doer,practical,very high,excellent,visionary,low,solutions architect
+art,advanced,remote,masters,doer,intuitive,low,poor,strong,high,cybersecurity analyst
+technology,beginner,flexible,high school,introvert,creative,high,average,collaborative,medium,full stack developer
+medicine,expert,team,phd,leader,logical,low,excellent,collaborative,high,devops engineer
+business,advanced,solo,diploma,introvert,intuitive,low,fluent,moderate,high,data scientist
+science,intermediate,office,bachelors,leader,creative,high,poor,strong,high,product manager
+business,expert,remote,diploma,introvert,intuitive,high,excellent,strong,medium,system architect
+technology,intermediate,team,diploma,leader,creative,high,poor,collaborative,exceptional,data engineer
+technology,advanced,office,bachelors,leader,logical,high,poor,strong,medium,qa engineer
+science,advanced,office,bachelors,introvert,creative,very high,fluent,moderate,medium,automation engineer
+business,intermediate,solo,diploma,doer,creative,very high,poor,collaborative,medium,site reliability engineer
+science,expert,remote,diploma,introvert,practical,high,fluent,moderate,exceptional,devops engineer
+business,advanced,remote,phd,thinker,logical,low,excellent,collaborative,medium,embedded systems engineer
+medicine,advanced,team,bachelors,introvert,creative,high,excellent,collaborative,high,qa engineer
+business,advanced,remote,phd,thinker,intuitive,low,average,visionary,very high,data analyst
+business,intermediate,team,high school,thinker,analytical,very high,poor,collaborative,very high,site reliability engineer
+technology,advanced,remote,diploma,introvert,creative,low,fluent,collaborative,high,ai ethics researcher
+business,beginner,flexible,masters,leader,analytical,high,fluent,collaborative,low,financial analyst
+medicine,beginner,office,bachelors,extrovert,creative,high,fluent,collaborative,medium,hardware engineer
+medicine,advanced,solo,phd,thinker,creative,high,fluent,collaborative,exceptional,data engineer
+technology,advanced,office,high school,introvert,creative,medium,excellent,collaborative,exceptional,database administrator
+medicine,advanced,office,bachelors,thinker,practical,high,outstanding,moderate,exceptional,cloud architect
+business,advanced,remote,masters,introvert,practical,high,poor,strong,exceptional,embedded systems engineer
+technology,advanced,flexible,phd,leader,practical,very high,outstanding,collaborative,high,cloud architect
+technology,intermediate,office,diploma,thinker,analytical,very high,poor,moderate,medium,research scientist
+art,expert,remote,high school,introvert,intuitive,high,outstanding,collaborative,high,full stack developer
+art,advanced,remote,diploma,doer,practical,low,outstanding,collaborative,low,embedded systems engineer
+science,advanced,office,phd,introvert,analytical,high,outstanding,moderate,very high,ai ethics researcher
+art,intermediate,flexible,bachelors,introvert,intuitive,very high,poor,strong,exceptional,data analyst
+technology,beginner,flexible,masters,extrovert,intuitive,high,outstanding,moderate,low,full stack developer
+business,advanced,office,diploma,extrovert,logical,high,excellent,moderate,medium,technical writer
+science,expert,team,phd,introvert,logical,high,poor,collaborative,exceptional,technical writer
+medicine,intermediate,office,diploma,introvert,logical,very high,poor,collaborative,exceptional,nlp engineer
+science,advanced,solo,bachelors,thinker,practical,very high,outstanding,collaborative,exceptional,mobile app developer
+art,advanced,remote,bachelors,doer,logical,high,poor,visionary,very high,ui/ux designer
+art,advanced,team,phd,introvert,practical,very high,average,strong,exceptional,cybersecurity analyst
+science,advanced,solo,phd,doer,creative,low,excellent,visionary,medium,virtual reality developer
+science,advanced,flexible,high school,introvert,logical,high,fluent,collaborative,high,data engineer
+medicine,advanced,solo,diploma,doer,logical,medium,outstanding,strong,exceptional,full stack developer
+science,advanced,solo,high school,introvert,creative,medium,average,collaborative,exceptional,ui/ux designer
+business,advanced,team,high school,doer,creative,high,fluent,moderate,low,ui/ux designer
+business,advanced,flexible,high school,leader,logical,very high,outstanding,moderate,low,data scientist
+science,advanced,team,bachelors,doer,intuitive,high,fluent,collaborative,exceptional,financial analyst
+art,advanced,team,diploma,leader,analytical,low,average,visionary,very high,nlp engineer
+medicine,expert,flexible,diploma,extrovert,analytical,very high,outstanding,moderate,very high,computer vision engineer
+business,beginner,team,diploma,extrovert,intuitive,very high,fluent,collaborative,exceptional,iot specialist
+medicine,expert,office,phd,introvert,logical,low,outstanding,collaborative,very high,technical writer
+science,advanced,flexible,high school,doer,intuitive,medium,poor,visionary,high,iot specialist
+technology,advanced,flexible,bachelors,thinker,analytical,medium,excellent,strong,exceptional,system architect
+business,beginner,remote,masters,doer,logical,low,poor,moderate,low,blockchain developer
+art,beginner,solo,diploma,extrovert,creative,low,poor,collaborative,very high,bioinformatics scientist
+business,advanced,office,masters,introvert,creative,very high,outstanding,collaborative,high,system architect
+art,beginner,solo,high school,doer,practical,high,average,moderate,high,solutions architect
+business,advanced,office,phd,leader,creative,high,outstanding,collaborative,high,web developer
+medicine,intermediate,flexible,phd,leader,logical,high,excellent,moderate,medium,ai ethics researcher
+art,advanced,remote,masters,leader,analytical,high,average,strong,medium,blockchain developer
+medicine,expert,team,phd,introvert,intuitive,low,fluent,collaborative,low,full stack developer
+medicine,advanced,team,high school,thinker,analytical,high,outstanding,strong,very high,virtual reality developer
+medicine,beginner,remote,masters,leader,intuitive,high,outstanding,moderate,very high,site reliability engineer
+technology,advanced,remote,high school,leader,intuitive,high,excellent,collaborative,high,research scientist
+technology,advanced,office,bachelors,thinker,practical,high,poor,moderate,low,ai researcher
+technology,advanced,office,high school,leader,intuitive,high,excellent,visionary,high,virtual reality developer
+technology,intermediate,team,diploma,introvert,analytical,low,average,collaborative,high,robotics engineer
+technology,intermediate,office,diploma,extrovert,analytical,high,poor,strong,low,augmented reality developer
+medicine,advanced,team,bachelors,leader,creative,high,outstanding,strong,high,web developer
+medicine,expert,flexible,masters,doer,logical,high,excellent,visionary,medium,solutions architect
+technology,advanced,flexible,high school,doer,practical,medium,excellent,collaborative,very high,ai researcher
+art,intermediate,office,bachelors,thinker,practical,low,poor,visionary,low,game developer
+business,beginner,office,diploma,doer,analytical,high,fluent,collaborative,exceptional,blockchain developer
+medicine,beginner,solo,phd,extrovert,logical,low,poor,collaborative,low,software engineer
+medicine,advanced,office,masters,introvert,intuitive,medium,fluent,collaborative,high,hardware engineer
+medicine,advanced,flexible,bachelors,doer,creative,low,poor,strong,low,ai ethics researcher
+medicine,advanced,solo,bachelors,introvert,creative,very high,excellent,collaborative,high,ml engineer
+technology,advanced,solo,bachelors,thinker,analytical,very high,excellent,moderate,very high,virtual reality developer
+art,advanced,office,bachelors,doer,intuitive,high,poor,strong,high,ai researcher
+business,advanced,office,bachelors,doer,logical,very high,excellent,collaborative,high,nlp engineer
+technology,beginner,remote,masters,doer,logical,very high,outstanding,collaborative,medium,network engineer
+science,advanced,team,masters,leader,practical,medium,fluent,strong,high,ai ethics researcher
+medicine,advanced,solo,bachelors,thinker,analytical,high,average,strong,high,augmented reality developer
+technology,intermediate,flexible,phd,thinker,logical,high,average,collaborative,very high,nlp engineer
+art,beginner,remote,high school,extrovert,intuitive,medium,average,visionary,very high,cloud architect
+medicine,expert,flexible,diploma,leader,logical,low,excellent,moderate,exceptional,data engineer
+science,expert,flexible,bachelors,introvert,logical,high,average,collaborative,medium,ui/ux designer
+business,expert,team,masters,leader,practical,very high,outstanding,collaborative,low,business analyst
+business,advanced,solo,high school,extrovert,creative,high,fluent,moderate,exceptional,nlp engineer
+science,intermediate,solo,high school,introvert,analytical,high,average,moderate,exceptional,web developer
+science,expert,flexible,diploma,extrovert,practical,medium,poor,strong,high,speech recognition specialist
+science,intermediate,remote,diploma,doer,logical,low,fluent,visionary,very high,site reliability engineer
+science,advanced,flexible,diploma,introvert,logical,medium,excellent,strong,medium,iot specialist
+science,advanced,team,masters,extrovert,practical,high,fluent,collaborative,exceptional,web developer
+medicine,intermediate,solo,phd,doer,practical,high,poor,collaborative,high,business analyst
+art,advanced,solo,diploma,thinker,analytical,low,fluent,visionary,very high,cloud architect
+business,advanced,flexible,bachelors,extrovert,practical,low,outstanding,collaborative,high,ui/ux designer
+science,advanced,office,high school,extrovert,creative,low,average,strong,very high,research scientist
+science,beginner,flexible,bachelors,thinker,analytical,high,excellent,strong,high,web developer
+business,beginner,office,masters,thinker,practical,low,fluent,strong,very high,automation engineer
+medicine,advanced,solo,diploma,thinker,analytical,low,excellent,visionary,very high,speech recognition specialist
+science,advanced,flexible,phd,introvert,intuitive,medium,poor,collaborative,medium,qa engineer
+medicine,beginner,office,masters,leader,practical,low,poor,collaborative,exceptional,qa engineer
+business,advanced,solo,phd,introvert,logical,medium,outstanding,strong,very high,ai ethics researcher
+technology,expert,office,diploma,extrovert,analytical,low,poor,collaborative,low,deep learning engineer
+art,advanced,flexible,bachelors,extrovert,practical,low,average,collaborative,exceptional,cybersecurity analyst
+technology,beginner,remote,high school,thinker,analytical,high,average,strong,very high,speech recognition specialist
+medicine,advanced,remote,high school,thinker,practical,high,average,collaborative,medium,financial analyst
+art,expert,office,bachelors,doer,analytical,high,excellent,moderate,exceptional,augmented reality developer
+art,advanced,remote,masters,introvert,analytical,medium,outstanding,collaborative,medium,database administrator
+art,intermediate,remote,diploma,leader,intuitive,high,fluent,collaborative,low,mobile app developer
+science,advanced,remote,high school,introvert,intuitive,high,excellent,moderate,medium,data analyst
+art,expert,solo,diploma,introvert,analytical,low,outstanding,strong,low,data analyst
+medicine,advanced,solo,diploma,thinker,practical,medium,excellent,visionary,very high,computer vision engineer
+science,beginner,remote,high school,extrovert,analytical,high,outstanding,visionary,low,technical writer
+technology,advanced,team,diploma,extrovert,intuitive,medium,excellent,visionary,low,business analyst
+medicine,beginner,office,phd,thinker,creative,low,average,collaborative,exceptional,web developer
+art,expert,flexible,phd,thinker,creative,low,poor,moderate,high,financial analyst
+technology,advanced,flexible,bachelors,extrovert,practical,high,fluent,collaborative,very high,cybersecurity analyst
+business,beginner,solo,phd,leader,logical,high,excellent,collaborative,high,cloud architect
+medicine,advanced,team,diploma,introvert,logical,high,outstanding,collaborative,medium,web developer
+medicine,advanced,team,phd,thinker,analytical,low,average,visionary,very high,cybersecurity analyst
+science,intermediate,remote,diploma,doer,logical,medium,excellent,strong,exceptional,technical writer
+business,advanced,office,phd,doer,creative,high,excellent,visionary,medium,automation engineer
