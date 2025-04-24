@@ -69,7 +69,7 @@ class DataPreprocessing:
         
         except Exception as e:
             logger.error(e)
-            CustomException(e, sys)
+            raise CustomException(e, sys)
 
     def training_testing_splitter(self, data):
         '''
@@ -118,7 +118,7 @@ class DataPreprocessing:
 
         except Exception as e:
             logger.error(e)
-            CustomException(e, sys)
+            raise CustomException(e, sys)
 
     def get_preprocessors(self, X_train, y_train):
         '''
@@ -154,7 +154,7 @@ class DataPreprocessing:
 
         except Exception as e:
             logger.error(e)
-            CustomException(e, sys)
+            raise CustomException(e, sys)
 
     def initiate_Preprocessing(self, data_path):
         '''
@@ -234,7 +234,7 @@ class DataPreprocessing:
 
         except Exception as e:
             logger.error(e)
-            CustomException(e, sys)
+            raise CustomException(e, sys)
 
 
 # For testing purpose
