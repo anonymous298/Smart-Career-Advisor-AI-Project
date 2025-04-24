@@ -1,0 +1,60 @@
+[ 2025-04-24 15:03:48,697 ] 23 Training_Pipeline - INFO - Training Pipeline Initialized
+[ 2025-04-24 15:03:48,697 ] 25 Training_Pipeline - INFO - Entering Data Ingestion Component
+[ 2025-04-24 15:03:48,698 ] 65 Data_Ingestion - INFO - Starting the data loading process
+[ 2025-04-24 15:03:48,698 ] 70 Data_Ingestion - INFO - Data Exists in path
+[ 2025-04-24 15:03:48,708 ] 72 Data_Ingestion - INFO - Data Loaded
+[ 2025-04-24 15:03:48,708 ] 75 Data_Ingestion - INFO - Entering create_artifact method
+[ 2025-04-24 15:03:48,708 ] 40 Data_Ingestion - INFO - Creating an artifacts folder
+[ 2025-04-24 15:03:48,709 ] 45 Data_Ingestion - INFO - Saving our dataframe to artifacts folder
+[ 2025-04-24 15:03:48,730 ] 77 Data_Ingestion - INFO - Exited create_artifact method
+[ 2025-04-24 15:03:48,731 ] 79 Data_Ingestion - INFO - Data Loaded and saved
+[ 2025-04-24 15:03:48,731 ] 33 Training_Pipeline - INFO - Entering Data Preprocessing Component
+[ 2025-04-24 15:03:48,731 ] 172 Data_Preprocessing - INFO - Data Preprocessing Initialized
+[ 2025-04-24 15:03:48,731 ] 176 Data_Preprocessing - INFO - Reading our data
+[ 2025-04-24 15:03:48,751 ] 178 Data_Preprocessing - INFO - Data Loaded
+[ 2025-04-24 15:03:48,751 ] 87 Data_Preprocessing - INFO - Splitting it into training and testing part
+[ 2025-04-24 15:03:48,751 ] 48 Data_Preprocessing - INFO - Splitting data into 80/20 part
+[ 2025-04-24 15:03:48,753 ] 52 Data_Preprocessing - INFO - Data Splitted
+[ 2025-04-24 15:03:48,753 ] 53 Data_Preprocessing - INFO - Saving train and test data to artifacts
+[ 2025-04-24 15:03:48,753 ] 56 Data_Preprocessing - INFO - Saving train data to artifact
+[ 2025-04-24 15:03:48,768 ] 59 Data_Preprocessing - INFO - Saving test data to artifacts
+[ 2025-04-24 15:03:48,773 ] 62 Data_Preprocessing - INFO - train and test data saving done
+[ 2025-04-24 15:03:48,774 ] 91 Data_Preprocessing - INFO - Loading train and test data path
+[ 2025-04-24 15:03:48,774 ] 93 Data_Preprocessing - INFO - Loading training data path
+[ 2025-04-24 15:03:48,793 ] 96 Data_Preprocessing - INFO - Loading testing data path
+[ 2025-04-24 15:03:48,806 ] 99 Data_Preprocessing - INFO - Train and Test data loaded
+[ 2025-04-24 15:03:48,806 ] 103 Data_Preprocessing - INFO - Splitting training data to dependent and independt feature
+[ 2025-04-24 15:03:48,807 ] 106 Data_Preprocessing - INFO - Splitting testing data into dependent and independent feature
+[ 2025-04-24 15:03:48,807 ] 109 Data_Preprocessing - INFO - Data Splitting Completed
+[ 2025-04-24 15:03:48,807 ] 184 Data_Preprocessing - INFO - Entering get_preprocessor method
+[ 2025-04-24 15:03:48,807 ] 136 Data_Preprocessing - INFO - Creating our preprocessors object
+[ 2025-04-24 15:03:48,807 ] 138 Data_Preprocessing - INFO - Creating our X_preprocessor
+[ 2025-04-24 15:03:48,809 ] 144 Data_Preprocessing - INFO - Creating our y_preprocessor
+[ 2025-04-24 15:03:48,810 ] 147 Data_Preprocessing - INFO - Preprocessor Object Created
+[ 2025-04-24 15:03:48,810 ] 188 Data_Preprocessing - INFO - Starts preprocessing
+[ 2025-04-24 15:03:48,810 ] 190 Data_Preprocessing - INFO - Preprocessing on Independent Data
+[ 2025-04-24 15:03:48,819 ] 202 Data_Preprocessing - INFO - Preprocessing on Dependent Features
+[ 2025-04-24 15:03:48,820 ] 210 Data_Preprocessing - INFO - All Preprocessing Completed
+[ 2025-04-24 15:03:48,820 ] 212 Data_Preprocessing - INFO - Saving our models to model path
+[ 2025-04-24 15:03:48,821 ] 41 Training_Pipeline - INFO - Entering Model Training Component
+[ 2025-04-24 15:03:48,822 ] 88 Model_Training - INFO - Model Training Started
+[ 2025-04-24 15:03:48,822 ] 90 Model_Training - INFO - Getting our model
+[ 2025-04-24 15:03:48,822 ] 42 Model_Training - INFO - Building our Neural Network Architecture
+[ 2025-04-24 15:03:48,907 ] 56 Model_Training - INFO - Compiling Our Model
+[ 2025-04-24 15:03:48,916 ] 64 Model_Training - INFO - Model Builded Successfully
+[ 2025-04-24 15:03:48,916 ] 104 Model_Training - INFO - Model training initiated
+[ 2025-04-24 15:03:55,207 ] 115 Model_Training - INFO - Model Trained Successfully
+[ 2025-04-24 15:03:55,207 ] 117 Model_Training - INFO - Saving our model to path
+[ 2025-04-24 15:03:55,208 ] 80 absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[ 2025-04-24 15:03:55,232 ] 123 Model_Training - INFO - Model saved successfully at models/trained_model.h5
+[ 2025-04-24 15:03:55,232 ] 128 Model_Training - INFO - Model training related things done successfully
+[ 2025-04-24 15:03:55,233 ] 49 Training_Pipeline - INFO - Entering Model Evaluation Component
+[ 2025-04-24 15:03:55,233 ] 38 Model_Evaluation - INFO - Evaluating Our Model
+[ 2025-04-24 15:03:55,233 ] 40 Model_Evaluation - INFO - Loading Model From Path
+[ 2025-04-24 15:03:55,271 ] 256 absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[ 2025-04-24 15:03:55,276 ] 42 Model_Evaluation - INFO - Model Loaded
+[ 2025-04-24 15:03:55,276 ] 45 Model_Evaluation - INFO - Evaluating Model On Training Data
+[ 2025-04-24 15:03:55,598 ] 49 Model_Evaluation - INFO - Evaluating Model On Testing Data
+[ 2025-04-24 15:03:55,784 ] 53 Model_Evaluation - INFO - Experiment Tracking Started
+[ 2025-04-24 15:04:17,736 ] 69 Model_Evaluation - INFO - Model Evaluation Completed
+[ 2025-04-24 15:04:17,736 ] 61 Training_Pipeline - INFO - Training Pipeline Completed
