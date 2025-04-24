@@ -70,7 +70,7 @@ class ModelTraining:
 
         except Exception as e:
             logger.error(e)
-            CustomException(e, sys)
+            raise CustomException(e, sys)
 
     def start_training(self, X_train, X_test, y_train, y_test):
         '''
@@ -133,7 +133,7 @@ class ModelTraining:
 
         except Exception as e:
             logger.error(e)
-            CustomException(e, sys)
+            raise CustomException(e, sys)
 
 
 
