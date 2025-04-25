@@ -65,9 +65,10 @@ st.markdown("""
         background-color: #2563eb;
     }
     h1 {
-        color: #1e293b;
+        color: #2563eb;
         font-size: 2.5rem;
         margin-bottom: 1rem;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
     }
     h2 {
         color: #334155;
@@ -117,7 +118,7 @@ st.markdown("""
 # Title and Introduction
 st.markdown("""
     <div class="title-container">
-        <h1 style='margin: 0;'>🎯 Smart Career Advisor AI</h1>
+        <h1 style='margin: 0; color: #2563eb;'>🎯 Smart Career Advisor AI</h1>
         <span class="mvp-badge">MVP</span>
     </div>
     """, unsafe_allow_html=True)
