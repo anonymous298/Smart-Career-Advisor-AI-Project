@@ -14,7 +14,7 @@ st.set_page_config(
 st.markdown("""
     <style>
     .stApp {
-        background: black;
+        background: linear-gradient(135deg, #f0f7ff 0%, #e6f3ff 100%);
     }
     .main .block-container {
         padding-top: 2rem;

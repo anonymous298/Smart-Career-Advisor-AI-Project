@@ -1,0 +1,30 @@
+[ 2025-04-25 09:53:21,526 ] 149 tensorflow - WARNING - From C:\Users\TALHA PC\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+[ 2025-04-25 10:11:00,232 ] 128 Prediction_Pipeline - INFO - Prediction Started
+[ 2025-04-25 10:11:05,065 ] 256 absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[ 2025-04-25 10:11:33,356 ] 128 Prediction_Pipeline - INFO - Prediction Started
+[ 2025-04-25 10:11:33,467 ] 256 absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[ 2025-04-25 10:11:40,290 ] 128 Prediction_Pipeline - INFO - Prediction Started
+[ 2025-04-25 10:11:40,385 ] 256 absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[ 2025-04-25 10:11:50,155 ] 128 Prediction_Pipeline - INFO - Prediction Started
+[ 2025-04-25 10:11:50,261 ] 256 absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[ 2025-04-25 10:11:58,630 ] 128 Prediction_Pipeline - INFO - Prediction Started
+[ 2025-04-25 10:11:58,729 ] 256 absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[ 2025-04-25 10:11:58,827 ] 157 tensorflow - WARNING - 5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x000002EF16592FC0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+[ 2025-04-25 10:12:10,691 ] 128 Prediction_Pipeline - INFO - Prediction Started
+[ 2025-04-25 10:12:10,793 ] 256 absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[ 2025-04-25 10:12:10,895 ] 157 tensorflow - WARNING - 6 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x000002EF16590040> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+[ 2025-04-25 10:34:20,448 ] 128 Prediction_Pipeline - INFO - Prediction Started
+[ 2025-04-25 10:34:20,554 ] 256 absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[ 2025-04-25 10:35:39,143 ] 128 Prediction_Pipeline - INFO - Prediction Started
+[ 2025-04-25 10:35:39,260 ] 256 absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[ 2025-04-25 10:35:50,073 ] 128 Prediction_Pipeline - INFO - Prediction Started
+[ 2025-04-25 10:35:50,185 ] 256 absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[ 2025-04-25 10:35:51,763 ] 128 Prediction_Pipeline - INFO - Prediction Started
+[ 2025-04-25 10:35:51,863 ] 256 absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[ 2025-04-25 10:35:56,601 ] 128 Prediction_Pipeline - INFO - Prediction Started
+[ 2025-04-25 10:35:56,714 ] 256 absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[ 2025-04-25 10:36:04,365 ] 128 Prediction_Pipeline - INFO - Prediction Started
+[ 2025-04-25 10:36:04,463 ] 256 absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[ 2025-04-25 10:36:14,685 ] 128 Prediction_Pipeline - INFO - Prediction Started
+[ 2025-04-25 10:36:14,793 ] 256 absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.

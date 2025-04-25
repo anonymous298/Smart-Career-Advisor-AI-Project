@@ -6,4 +6,5 @@ tensorflow
 matplotlib
 seaborn
 mlflow
+streamlit
 # -e .
