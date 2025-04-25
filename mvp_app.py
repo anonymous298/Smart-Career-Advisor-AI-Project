@@ -93,11 +93,35 @@ st.markdown("""
         border-radius: 12px;
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     }
+    .mvp-badge {
+        display: inline-block;
+        background: linear-gradient(135deg, #ff6b6b 0%, #ff8e8e 100%);
+        color: white;
+        padding: 0.3rem 1rem;
+        border-radius: 20px;
+        font-size: 0.9rem;
+        font-weight: bold;
+        margin-left: 1rem;
+        vertical-align: middle;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+    .title-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 1.5rem;
+    }
     </style>
     """, unsafe_allow_html=True)
 
 # Title and Introduction
-st.title('🎯 Smart Career Advisor AI')
+st.markdown("""
+    <div class="title-container">
+        <h1 style='margin: 0;'>🎯 Smart Career Advisor AI</h1>
+        <span class="mvp-badge">MVP</span>
+    </div>
+    """, unsafe_allow_html=True)
+
 st.markdown("""
     <div style='background-color: #ffffff; padding: 20px; border-radius: 12px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);'>
         <p style='color: #1e293b; font-size: 1.1rem;'>
