@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Career Path Finder</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: #a18c6e;
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      color: #fbeec1;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+    header, footer {
+      background-color: #5e3a4d;
+      text-align: center;
+      padding: 1rem;
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+    header {
+      font-size: 25px;
+    }
+    main {
+      flex-grow: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .page {
+      display: none;
+      flex-direction: column;
+      align-items: center;
+    }
+    .page.active {
+      display: flex;
+    }
+    .question {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+      text-align: center;
+      text-decoration: underline;
+    }
+    .options {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .option-button {
+      background-color: #e1a87a;
+      color: #3c1c39;
+      border: none;
+      padding: 1rem 2rem;
+      height: 70px;
+      border-radius: 10px;
+      box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+      font-size: 1.2rem;
+      cursor: pointer;
+      transition: 0.3s ease;
+    }
+    .option-button:hover {
+      transform: scale(1.05);
+      background-color: #d6956e;
+    }
+
+    /* Highlight for selected option on last page */
+    .selected {
+      border: 3px solid #000;
+    }
+
+    .submit-button {
+        width: 150px;
+        padding: 10px 20px;
+        margin-top: 10px;
+        border-radius: 10px;
+        background-color: #3c1c39;
+        color: #fbeec1;
+        font-size: 20px;
+        font-weight: bold;
+        border: none;
+        cursor: pointer;
+        transition: 0.3s ease;
+    }
+    .submit-button:hover {
+        background-color: #3c1c39c9;
+    }
+  </style>
+</head>
+<body>
+
+  <header>Career Path Finder AI</header>
+
+  <main>
+    <!-- Page 1 -->
+    <div class="page active" id="page1">
+        <div class="question">Q1: Which field sparks your passion the most?</div>
+        <div class="options">
+        <button class="option-button" onclick="nextPage(1, this)">Art</button>
+        <button class="option-button" onclick="nextPage(1, this)">Technology</button>
+        <button class="option-button" onclick="nextPage(1, this)">Business</button>
+        <button class="option-button" onclick="nextPage(1, this)">Medicine</button>
+        <button class="option-button" onclick="nextPage(1, this)">Science</button>
+        </div>
+    </div>
+    
+    <!-- Page 2 -->
+    <div class="page" id="page2">
+        <div class="question">Q2: How would you describe your current skill level in your field?</div>
+        <div class="options">
+        <button class="option-button" onclick="nextPage(2, this)">Expert</button>
+        <button class="option-button" onclick="nextPage(2, this)">Advanced</button>
+        <button class="option-button" onclick="nextPage(2, this)">Intermediate</button>
+        <button class="option-button" onclick="nextPage(2, this)">Beginner</button>
+        </div>
+    </div>
+    
+    <!-- Page 3 -->
+    <div class="page" id="page3">
+        <div class="question">Q3: What type of work setting brings out your best performance?</div>
+        <div class="options">
+        <button class="option-button" onclick="nextPage(3, this)">Flexible</button>
+        <button class="option-button" onclick="nextPage(3, this)">Team</button>
+        <button class="option-button" onclick="nextPage(3, this)">Remote</button>
+        <button class="option-button" onclick="nextPage(3, this)">Solo</button>
+        <button class="option-button" onclick="nextPage(3, this)">Office</button>
+        </div>
+    </div>
+
+    <!-- Page 4 -->
+    <div class="page" id="page4">
+        <div class="question">Q4: What is the highest educational qualification you've achieved?</div>
+        <div class="options">
+        <button class="option-button" onclick="nextPage(4, this)">Masters</button>
+        <button class="option-button" onclick="nextPage(4, this)">PhD</button>
+        <button class="option-button" onclick="nextPage(4, this)">Diploma</button>
+        <button class="option-button" onclick="nextPage(4, this)">Bachelors</button>
+        <button class="option-button" onclick="nextPage(4, this)">High School</button>
+        </div>
+    </div>
+    
+    <!-- Page 5 -->
+    <div class="page" id="page5">
+        <div class="question">Q5: Which personal trait resonates most with your personality?</div>
+        <div class="options">
+        <button class="option-button" onclick="nextPage(5, this)">Thinker</button>
+        <button class="option-button" onclick="nextPage(5, this)">Extrovert</button>
+        <button class="option-button" onclick="nextPage(5, this)">Doer</button>
+        <button class="option-button" onclick="nextPage(5, this)">Leader</button>
+        <button class="option-button" onclick="nextPage(5, this)">Introvert</button>
+        </div>
+    </div>
+    
+    <!-- Page 6 -->
+    <div class="page" id="page6">
+        <div class="question">Q6: How do you generally approach challenges or problem-solving?</div>
+        <div class="options">
+        <button class="option-button" onclick="nextPage(6, this)">Creative</button>
+        <button class="option-button" onclick="nextPage(6, this)">Logical</button>
+        <button class="option-button" onclick="nextPage(6, this)">Intuitive</button>
+        <button class="option-button" onclick="nextPage(6, this)">Practical</button>
+        <button class="option-button" onclick="nextPage(6, this)">Analytical</button>
+        </div>
+    </div>
+    
+    <!-- Page 7 -->
+    <div class="page" id="page7">
+        <div class="question">Q7: How would you evaluate your technical expertise?</div>
+        <div class="options">
+        <button class="option-button" onclick="nextPage(7, this)">Very High</button>
+        <button class="option-button" onclick="nextPage(7, this)">High</button>
+        <button class="option-button" onclick="nextPage(7, this)">Low</button>
+        <button class="option-button" onclick="nextPage(7, this)">Medium</button>
+        </div>
+    </div>
+    
+    <!-- Page 8 -->
+    <div class="page" id="page8">
+        <div class="question">Q8: How would you rate your ability to communicate ideas clearly?</div>
+        <div class="options">
+        <button class="option-button" onclick="nextPage(8, this)">Excellent</button>
+        <button class="option-button" onclick="nextPage(8, this)">Poor</button>
+        <button class="option-button" onclick="nextPage(8, this)">Fluent</button>
+        <button class="option-button" onclick="nextPage(8, this)">Average</button>
+        <button class="option-button" onclick="nextPage(8, this)">Outstanding</button>
+        </div>
+    </div>
+    
+    <!-- Page 9 -->
+    <div class="page" id="page9">
+        <div class="question">Q9: Which leadership style best matches your approach?</div>
+        <div class="options">
+        <button class="option-button" onclick="nextPage(9, this)">Strong</button>
+        <button class="option-button" onclick="nextPage(9, this)">Moderate</button>
+        <button class="option-button" onclick="nextPage(9, this)">Collaborative</button>
+        <button class="option-button" onclick="nextPage(9, this)">Visionary</button>
+        </div>
+    </div>
+    
+    <!-- Page 10 -->
+    <div class="page" id="page10">
+        <div class="question">Q10: How would you rate your creative thinking ability?</div>
+        <div class="options">
+        <button class="option-button" onclick="selectOption(this)">Medium</button>
+        <button class="option-button" onclick="selectOption(this)">Very High</button>
+        <button class="option-button" onclick="selectOption(this)">Low</button>
+        <button class="option-button" onclick="selectOption(this)">High</button>
+        <button class="option-button" onclick="selectOption(this)">Exceptional</button>
+        </div>
+        <!-- Submit button -->
+        <br><br>
+        <button class='submit-button' onclick="SendAnswers()">Submit</button>
+        <!-- <button id="submit-btn" onclick="SendAnswers()" style="display:none;">Submit</button> -->
+    </div>
+
+    <!-- Add more pages here (page3, page4...) -->
+  </main>
+
+  <footer>&copy; 2025 Career Advisor AI | Made with ❤️ by Talha</footer>
+
+  <script>
+    const answers = {};
+
+    function nextPage(current, button) {
+      answers["Q" + current] = button.innerText;
+      document.getElementById("page" + current).classList.remove("active");
+      const next = current + 1;
+      document.getElementById("page" + next).classList.add("active");
+    }
+
+    function selectOption(button) {
+      // Remove selection from other buttons
+      document.querySelectorAll("#page10 .option-button").forEach(btn => btn.classList.remove("selected"));
+      // Highlight this one
+      button.classList.add("selected");
+      // Save answer
+      answers["Q10"] = button.innerText;
+      // Show submit button
+      document.getElementById("submit-btn").style.display = "inline-block";
+    }
+
+    function SendAnswers() {
+        // Make sure all questions have been answered
+        for (let i = 1; i <= 10; i++) {
+        if (!answers["Q" + i]) {
+            alert("Please answer question " + i);
+            return;
+        }
+    }
+
+        // Encode answers as JSON string in a query param
+        const query = encodeURIComponent(JSON.stringify(answers));
+        window.location.href = `/submit?answers=${query}`;
+    }
+    
+  </script>
+  
+
+</body>
+</html>
