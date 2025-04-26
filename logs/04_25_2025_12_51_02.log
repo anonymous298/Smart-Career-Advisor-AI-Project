@@ -1,0 +1,5 @@
+[ 2025-04-25 12:51:07,285 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2025-04-25 12:51:07,290 ] 96 werkzeug - INFO -  * Debugger PIN: 545-954-706
+[ 2025-04-25 12:51:12,276 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 12:51:12] "GET / HTTP/1.1" 200 -
+[ 2025-04-25 12:51:19,413 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 12:51:19] "POST /submit HTTP/1.1" 200 -
+[ 2025-04-25 12:51:32,278 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\templating.py', reloading

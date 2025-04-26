@@ -1,0 +1,12 @@
+[ 2025-04-25 12:34:02,704 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2025-04-25 12:34:02,712 ] 96 werkzeug - INFO -  * Debugger PIN: 545-954-706
+[ 2025-04-25 12:34:19,757 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask_cors\\__init__.py', reloading
+[ 2025-04-25 12:34:19,758 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask_cors\\__init__.py', reloading
+[ 2025-04-25 12:34:19,758 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask_cors\\core.py', reloading
+[ 2025-04-25 12:34:19,760 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask_cors\\core.py', reloading
+[ 2025-04-25 12:34:19,762 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask_cors\\decorator.py', reloading
+[ 2025-04-25 12:34:19,762 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask_cors\\decorator.py', reloading
+[ 2025-04-25 12:34:19,763 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask_cors\\extension.py', reloading
+[ 2025-04-25 12:34:19,764 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask_cors\\extension.py', reloading
+[ 2025-04-25 12:34:19,764 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask_cors\\version.py', reloading
+[ 2025-04-25 12:34:19,764 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask_cors\\version.py', reloading

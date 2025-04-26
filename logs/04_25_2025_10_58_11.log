@@ -1,0 +1,30 @@
+[ 2025-04-25 10:58:16,031 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2025-04-25 10:58:16,037 ] 96 werkzeug - INFO -  * Debugger PIN: 545-954-706
+[ 2025-04-25 11:49:14,602 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\__init__.py', reloading
+[ 2025-04-25 11:49:14,613 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\app.py', reloading
+[ 2025-04-25 11:49:14,681 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\sansio\\app.py', reloading
+[ 2025-04-25 11:49:14,700 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\sansio\\scaffold.py', reloading
+[ 2025-04-25 11:49:14,733 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\templating.py', reloading
+[ 2025-04-25 11:49:14,739 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jinja2\\__init__.py', reloading
+[ 2025-04-25 11:49:14,745 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jinja2\\environment.py', reloading
+[ 2025-04-25 11:49:14,799 ] 96 werkzeug - INFO -  * Detected change in 'C:\\new learning\\Coding Projects\\Smart-Career-Advisor-AI-Project\\src\\pipe\\prediction_pipeline.py', reloading
+[ 2025-04-25 11:49:14,799 ] 96 werkzeug - INFO -  * Detected change in 'c:\\new learning\\coding projects\\smart-career-advisor-ai-project\\src\\pipe\\prediction_pipeline.py', reloading
+[ 2025-04-25 11:49:14,930 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\typing.py', reloading
+[ 2025-04-25 11:49:14,933 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\sansio\\response.py', reloading
+[ 2025-04-25 11:49:14,974 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\datastructures\\__init__.py', reloading
+[ 2025-04-25 11:49:15,070 ] 96 werkzeug - INFO -  * Detected change in 'C:\\new learning\\Coding Projects\\Smart-Career-Advisor-AI-Project\\setup.py', reloading
+[ 2025-04-25 11:49:15,072 ] 96 werkzeug - INFO -  * Detected change in 'c:\\new learning\\coding projects\\smart-career-advisor-ai-project\\setup.py', reloading
+[ 2025-04-25 11:49:15,144 ] 96 werkzeug - INFO -  * Detected change in 'c:\\new learning\\coding projects\\smart-career-advisor-ai-project\\src\\components\\data_ingestion.py', reloading
+[ 2025-04-25 11:49:15,144 ] 96 werkzeug - INFO -  * Detected change in 'c:\\new learning\\coding projects\\smart-career-advisor-ai-project\\src\\components\\data_preprocessing.py', reloading
+[ 2025-04-25 11:49:15,155 ] 96 werkzeug - INFO -  * Detected change in 'C:\\new learning\\Coding Projects\\Smart-Career-Advisor-AI-Project\\src\\components\\data_ingestion.py', reloading
+[ 2025-04-25 11:49:15,156 ] 96 werkzeug - INFO -  * Detected change in 'C:\\new learning\\Coding Projects\\Smart-Career-Advisor-AI-Project\\src\\components\\data_preprocessing.py', reloading
+[ 2025-04-25 11:49:15,183 ] 96 werkzeug - INFO -  * Detected change in 'c:\\new learning\\coding projects\\smart-career-advisor-ai-project\\src\\components\\model_evaluation.py', reloading
+[ 2025-04-25 11:49:15,184 ] 96 werkzeug - INFO -  * Detected change in 'C:\\new learning\\Coding Projects\\Smart-Career-Advisor-AI-Project\\src\\components\\model_evaluation.py', reloading
+[ 2025-04-25 11:49:15,217 ] 96 werkzeug - INFO -  * Detected change in 'C:\\new learning\\Coding Projects\\Smart-Career-Advisor-AI-Project\\src\\components\\model_training.py', reloading
+[ 2025-04-25 11:49:15,217 ] 96 werkzeug - INFO -  * Detected change in 'c:\\new learning\\coding projects\\smart-career-advisor-ai-project\\src\\components\\model_training.py', reloading
+[ 2025-04-25 11:49:15,236 ] 96 werkzeug - INFO -  * Detected change in 'c:\\new learning\\coding projects\\smart-career-advisor-ai-project\\src\\pipe\\training_pipeline.py', reloading
+[ 2025-04-25 11:49:15,239 ] 96 werkzeug - INFO -  * Detected change in 'C:\\new learning\\Coding Projects\\Smart-Career-Advisor-AI-Project\\src\\pipe\\training_pipeline.py', reloading
+[ 2025-04-25 11:49:15,247 ] 96 werkzeug - INFO -  * Detected change in 'c:\\new learning\\coding projects\\smart-career-advisor-ai-project\\src\\utils\\exception.py', reloading
+[ 2025-04-25 11:49:15,250 ] 96 werkzeug - INFO -  * Detected change in 'C:\\new learning\\Coding Projects\\Smart-Career-Advisor-AI-Project\\src\\utils\\exception.py', reloading
+[ 2025-04-25 11:49:15,251 ] 96 werkzeug - INFO -  * Detected change in 'c:\\new learning\\coding projects\\smart-career-advisor-ai-project\\src\\utils\\logger.py', reloading
+[ 2025-04-25 11:49:15,251 ] 96 werkzeug - INFO -  * Detected change in 'C:\\new learning\\Coding Projects\\Smart-Career-Advisor-AI-Project\\src\\utils\\logger.py', reloading

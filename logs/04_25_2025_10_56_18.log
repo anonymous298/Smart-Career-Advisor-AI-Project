@@ -1,0 +1,6 @@
+[ 2025-04-25 10:56:22,553 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2025-04-25 10:56:22,560 ] 96 werkzeug - INFO -  * Debugger PIN: 545-954-706
+[ 2025-04-25 10:56:25,821 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\cursor.py', reloading
+[ 2025-04-25 10:56:25,823 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\proto\\__init__.py', reloading
+[ 2025-04-25 10:56:25,835 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\config.py', reloading
+[ 2025-04-25 10:56:25,849 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\streamlit\\type_util.py', reloading

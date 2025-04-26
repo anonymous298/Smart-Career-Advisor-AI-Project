@@ -1,0 +1,15 @@
+[ 2025-04-25 13:20:24,732 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2025-04-25 13:20:24,737 ] 96 werkzeug - INFO -  * Debugger PIN: 545-954-706
+[ 2025-04-25 13:22:09,920 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:22:09] "GET / HTTP/1.1" 200 -
+[ 2025-04-25 13:25:06,677 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:25:06] "GET / HTTP/1.1" 200 -
+[ 2025-04-25 13:25:07,710 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:25:07] "GET / HTTP/1.1" 200 -
+[ 2025-04-25 13:25:09,053 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:25:09] "GET / HTTP/1.1" 200 -
+[ 2025-04-25 13:25:18,489 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:25:18] "GET / HTTP/1.1" 200 -
+[ 2025-04-25 13:28:46,534 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:28:46] "GET / HTTP/1.1" 200 -
+[ 2025-04-25 13:29:04,683 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:29:04] "GET / HTTP/1.1" 200 -
+[ 2025-04-25 13:29:19,064 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:29:19] "GET / HTTP/1.1" 200 -
+[ 2025-04-25 13:29:25,531 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:29:25] "POST /submit HTTP/1.1" 200 -
+[ 2025-04-25 13:30:11,242 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:30:11] "POST /submit HTTP/1.1" 200 -
+[ 2025-04-25 13:33:29,144 ] 96 werkzeug - INFO -  * Detected change in 'c:\\new learning\\coding projects\\smart-career-advisor-ai-project\\app.py', reloading
+[ 2025-04-25 13:33:29,147 ] 96 werkzeug - INFO -  * Detected change in 'C:\\new learning\\Coding Projects\\Smart-Career-Advisor-AI-Project\\app.py', reloading
+[ 2025-04-25 13:33:29,148 ] 96 werkzeug - INFO -  * Detected change in 'c:\\new learning\\coding projects\\smart-career-advisor-ai-project\\app.py', reloading

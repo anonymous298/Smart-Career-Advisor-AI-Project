@@ -1,0 +1,6 @@
+[ 2025-04-25 13:47:31,758 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2025-04-25 13:47:31,764 ] 96 werkzeug - INFO -  * Debugger PIN: 545-954-706
+[ 2025-04-25 13:47:31,792 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:47:31] "GET / HTTP/1.1" 200 -
+[ 2025-04-25 13:47:46,844 ] 128 Prediction_Pipeline - INFO - Prediction Started
+[ 2025-04-25 13:47:47,497 ] 256 absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[ 2025-04-25 13:47:47,625 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:47:47] "GET /submit?answers={"Q1":"Technology","Q2":"Intermediate","Q3":"Team","Q4":"Bachelors","Q5":"Thinker","Q6":"Practical","Q7":"Low","Q8":"Outstanding","Q9":"Strong","Q10":"Very%20High"} HTTP/1.1" 200 -

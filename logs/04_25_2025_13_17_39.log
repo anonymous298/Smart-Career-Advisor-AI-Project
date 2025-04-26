@@ -1,0 +1,4 @@
+[ 2025-04-25 13:17:43,571 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2025-04-25 13:17:43,578 ] 96 werkzeug - INFO -  * Debugger PIN: 545-954-706
+[ 2025-04-25 13:19:09,946 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:19:09] "GET / HTTP/1.1" 200 -
+[ 2025-04-25 13:19:18,512 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:19:18] "POST /submit HTTP/1.1" 200 -

@@ -1,0 +1,13 @@
+[ 2025-04-25 13:34:29,248 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2025-04-25 13:34:29,254 ] 96 werkzeug - INFO -  * Debugger PIN: 545-954-706
+[ 2025-04-25 13:34:29,374 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:34:29] "GET /submit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2025-04-25 13:34:29,378 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:34:29] "GET /submit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2025-04-25 13:34:29,423 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:34:29] "GET /submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2025-04-25 13:34:30,024 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:34:30] "[36mGET /submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2025-04-25 13:34:37,750 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pytest\\junitxml.py', reloading
+[ 2025-04-25 13:34:37,833 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pytest\\legacypath.py', reloading
+[ 2025-04-25 13:34:37,847 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pytest\\logging.py', reloading
+[ 2025-04-25 13:34:37,871 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pytest\\monkeypatch.py', reloading
+[ 2025-04-25 13:34:37,881 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pytest\\recwarn.py', reloading
+[ 2025-04-25 13:34:37,894 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pytest\\tmpdir.py', reloading
+[ 2025-04-25 13:34:37,908 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pytest_asyncio\\plugin.py', reloading

@@ -1,0 +1,6 @@
+[ 2025-04-25 13:34:08,667 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2025-04-25 13:34:08,673 ] 96 werkzeug - INFO -  * Debugger PIN: 545-954-706
+[ 2025-04-25 13:34:18,230 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:34:18] "GET / HTTP/1.1" 200 -
+[ 2025-04-25 13:34:23,633 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\app.py', reloading
+[ 2025-04-25 13:34:23,634 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask_cors\\extension.py', reloading
+[ 2025-04-25 13:34:23,638 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:34:23] "[35m[1mGET /submit?answers={"Q1":"Business","Q2":"Beginner","Q3":"Team","Q4":"Bachelors","Q5":"Thinker","Q6":"Practical","Q7":"High","Q8":"Poor","Q9":"Collaborative","Q10":"Very%20High"} HTTP/1.1[0m" 500 -

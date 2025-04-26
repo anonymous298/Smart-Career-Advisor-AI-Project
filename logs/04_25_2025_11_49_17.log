@@ -1,0 +1,16 @@
+[ 2025-04-25 11:49:23,368 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2025-04-25 11:49:23,374 ] 96 werkzeug - INFO -  * Debugger PIN: 545-954-706
+[ 2025-04-25 11:49:23,408 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jupyterlab\\__init__.py', reloading
+[ 2025-04-25 11:49:23,416 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jupyterlab_plotly\\__init__.py', reloading
+[ 2025-04-25 11:49:23,426 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jupyterlab_pygments\\__init__.py', reloading
+[ 2025-04-25 11:49:23,438 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jupyter_lsp\\__init__.py', reloading
+[ 2025-04-25 11:49:23,448 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\kubernetes\\__init__.py', reloading
+[ 2025-04-25 11:49:23,458 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\mako\\__init__.py', reloading
+[ 2025-04-25 11:49:23,470 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\matplotlib\\pylab.py', reloading
+[ 2025-04-25 11:49:23,616 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\matplotlib\\pyplot.py', reloading
+[ 2025-04-25 11:49:23,895 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cycler\\__init__.py', reloading
+[ 2025-04-25 11:49:24,062 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\typing\\__init__.py', reloading
+[ 2025-04-25 11:49:24,067 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\__init__.py', reloading
+[ 2025-04-25 11:49:24,074 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_array_like.py', reloading
+[ 2025-04-25 11:49:24,256 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\matplotlib\\typing.py', reloading
+[ 2025-04-25 11:49:24,321 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_extended_precision.py', reloading

@@ -1,0 +1,4 @@
+[ 2025-04-25 13:01:59,161 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2025-04-25 13:01:59,168 ] 96 werkzeug - INFO -  * Debugger PIN: 545-954-706
+[ 2025-04-25 13:03:11,572 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:03:11] "GET / HTTP/1.1" 200 -
+[ 2025-04-25 13:03:48,368 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pandas\\core\\series.py', reloading

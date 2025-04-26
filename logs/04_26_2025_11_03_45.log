@@ -1,0 +1,10 @@
+[ 2025-04-26 11:03:51,157 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2025-04-26 11:03:51,165 ] 96 werkzeug - INFO -  * Debugger PIN: 545-954-706
+[ 2025-04-26 11:03:55,044 ] 96 werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 11:03:55] "GET / HTTP/1.1" 200 -
+[ 2025-04-26 11:03:55,986 ] 96 werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 11:03:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-04-26 11:04:37,012 ] 96 werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 11:04:37] "GET / HTTP/1.1" 200 -
+[ 2025-04-26 11:05:34,732 ] 128 Prediction_Pipeline - INFO - Prediction Started
+[ 2025-04-26 11:05:41,313 ] 256 absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[ 2025-04-26 11:05:42,067 ] 96 werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 11:05:42] "GET /submit?answers={"Q1":"Business","Q2":"Advanced","Q3":"Flexible","Q4":"Bachelors","Q5":"Extrovert","Q6":"Practical","Q7":"Very%20High","Q8":"Outstanding","Q9":"Strong","Q10":"Very%20High"} HTTP/1.1" 200 -
+[ 2025-04-26 11:07:11,164 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pytest\\cacheprovider.py', reloading
+[ 2025-04-26 11:07:11,253 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\TALHA PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pytest\\fixtures.py', reloading

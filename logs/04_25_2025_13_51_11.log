@@ -1,0 +1,12 @@
+[ 2025-04-25 13:51:15,087 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2025-04-25 13:51:15,093 ] 96 werkzeug - INFO -  * Debugger PIN: 545-954-706
+[ 2025-04-25 13:51:15,122 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:51:15] "GET / HTTP/1.1" 200 -
+[ 2025-04-25 13:51:33,456 ] 128 Prediction_Pipeline - INFO - Prediction Started
+[ 2025-04-25 13:51:34,089 ] 256 absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[ 2025-04-25 13:51:34,212 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:51:34] "GET /submit?answers={"Q1":"Business","Q2":"Expert","Q3":"Flexible","Q4":"Bachelors","Q5":"Extrovert","Q6":"Practical","Q7":"Very%20High","Q8":"Average","Q9":"Moderate","Q10":"Very%20High"} HTTP/1.1" 200 -
+[ 2025-04-25 13:53:47,778 ] 96 werkzeug - INFO -  * Detected change in 'c:\\new learning\\coding projects\\smart-career-advisor-ai-project\\app.py', reloading
+[ 2025-04-25 13:53:47,782 ] 96 werkzeug - INFO -  * Detected change in 'C:\\new learning\\Coding Projects\\Smart-Career-Advisor-AI-Project\\app.py', reloading
+[ 2025-04-25 13:53:47,783 ] 96 werkzeug - INFO -  * Detected change in 'c:\\new learning\\coding projects\\smart-career-advisor-ai-project\\app.py', reloading
+[ 2025-04-25 13:53:47,785 ] 96 werkzeug - INFO -  * Detected change in 'C:\\new learning\\Coding Projects\\Smart-Career-Advisor-AI-Project\\app.py', reloading
+[ 2025-04-25 13:53:47,790 ] 96 werkzeug - INFO -  * Detected change in 'C:\\new learning\\Coding Projects\\Smart-Career-Advisor-AI-Project\\app.py', reloading
+[ 2025-04-25 13:53:47,791 ] 96 werkzeug - INFO -  * Detected change in 'c:\\new learning\\coding projects\\smart-career-advisor-ai-project\\app.py', reloading

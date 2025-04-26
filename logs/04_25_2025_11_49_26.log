@@ -1,0 +1,4 @@
+[ 2025-04-25 11:49:30,686 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2025-04-25 11:49:30,693 ] 96 werkzeug - INFO -  * Debugger PIN: 545-954-706
+[ 2025-04-25 12:18:43,844 ] 96 werkzeug - INFO -  * Detected change in 'c:\\new learning\\coding projects\\smart-career-advisor-ai-project\\src\\pipe\\__init__.py', reloading
+[ 2025-04-25 12:18:43,845 ] 96 werkzeug - INFO -  * Detected change in 'C:\\new learning\\Coding Projects\\Smart-Career-Advisor-AI-Project\\src\\pipe\\__init__.py', reloading

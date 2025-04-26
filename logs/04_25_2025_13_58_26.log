@@ -1,0 +1,10 @@
+[ 2025-04-25 13:58:30,023 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2025-04-25 13:58:30,029 ] 96 werkzeug - INFO -  * Debugger PIN: 545-954-706
+[ 2025-04-25 13:58:30,060 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:58:30] "GET /submit?answers={"Q1":"Technology","Q2":"Intermediate","Q3":"Team","Q4":"PhD","Q5":"Thinker","Q6":"Logical","Q7":"Medium","Q8":"Poor","Q9":"Collaborative","Q10":"Very%20High"} HTTP/1.1" 200 -
+[ 2025-04-25 13:58:34,592 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2025 13:58:34] "GET /submit?answers={"Q1":"Technology","Q2":"Intermediate","Q3":"Team","Q4":"PhD","Q5":"Thinker","Q6":"Logical","Q7":"Medium","Q8":"Poor","Q9":"Collaborative","Q10":"Exceptional"} HTTP/1.1" 200 -
+[ 2025-04-25 13:58:49,343 ] 96 werkzeug - INFO -  * Detected change in 'c:\\new learning\\coding projects\\smart-career-advisor-ai-project\\app.py', reloading
+[ 2025-04-25 13:58:49,345 ] 96 werkzeug - INFO -  * Detected change in 'C:\\new learning\\Coding Projects\\Smart-Career-Advisor-AI-Project\\app.py', reloading
+[ 2025-04-25 13:58:49,347 ] 96 werkzeug - INFO -  * Detected change in 'c:\\new learning\\coding projects\\smart-career-advisor-ai-project\\app.py', reloading
+[ 2025-04-25 13:58:49,349 ] 96 werkzeug - INFO -  * Detected change in 'C:\\new learning\\Coding Projects\\Smart-Career-Advisor-AI-Project\\app.py', reloading
+[ 2025-04-25 13:58:49,350 ] 96 werkzeug - INFO -  * Detected change in 'c:\\new learning\\coding projects\\smart-career-advisor-ai-project\\app.py', reloading
+[ 2025-04-25 13:58:49,353 ] 96 werkzeug - INFO -  * Detected change in 'C:\\new learning\\Coding Projects\\Smart-Career-Advisor-AI-Project\\app.py', reloading
