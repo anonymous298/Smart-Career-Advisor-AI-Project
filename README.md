@@ -7,7 +7,7 @@ The goal is to make career advice accessible, intelligent, and personalized thro
 
 
 # MVP
-- ✅ Version 1.0 (MVP) - (Completed)
+### ✅ Version 1.0 (MVP) - (Completed)
 Live Link 👉: [Click](https://smart-career-advisor-ai.streamlit.app/)
 
 ---
@@ -19,9 +19,9 @@ Live Link 👉: [Click](https://smart-career-advisor-ai.streamlit.app/)
 
 ![temp5](https://github.com/user-attachments/assets/b7b120e5-e9d8-4d88-9c22-678d5b44f38f)
 
---
+---
 
-- ✅ Version 1.0 - (Completed)
+### ✅ Version 1.0 - (Completed)
 
 ---
 
