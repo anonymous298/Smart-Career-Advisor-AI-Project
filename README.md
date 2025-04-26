@@ -1,6 +1,9 @@
 # Career Path Finder AI 🚀
 
+## Overview
 An AI-powered web application that suggests the best career path based on your skills, interests, and personality.
+
+---
 
 This project is under active development and will go through multiple versions:
 
