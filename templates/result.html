@@ -1,0 +1,67 @@
+<!-- templates/result.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Career Prediction Result</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        background-color: #a18c6e;
+        font-family: 'Comic Sans MS', cursive, sans-serif;
+        color: #fbeec1;
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+      }
+      header, footer {
+        background-color: #5e3a4d;
+        text-align: center;
+        padding: 1rem;
+        font-size: 1.5rem;
+        font-weight: bold;
+      }
+      main {
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding: 2rem;
+      }
+      .message {
+        font-size: 2rem;
+        margin-bottom: 1rem;
+      }
+      .prediction {
+        font-size: 3rem;
+        font-weight: bold;
+        margin: 1rem 0;
+        padding: 1rem 2rem;
+        background-color: #e1a87a;
+        color: rgb(0, 69, 0);
+        border-radius: 10px;
+        box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+        transition: transform 0.3s ease;
+      }
+      .prediction:hover {
+        transform: scale(1.05);
+      }
+      .subtext {
+        font-size: 1.2rem;
+        opacity: 0.8;
+      }
+    </style>
+</head>
+<body>
+    <header>Career Path Finder AI</header>
+  <main>
+    <div class="message">Our AI model suggests:</div>
+    <div class="prediction">{{ prediction }}</div>
+    <div class="subtext">Congratulations! This path aligns with your strengths.</div>
+  </main>
+  <footer>&copy; 2025 Career Advisor AI | Built with ❤️ by Talha</footer>
+</body>
+</html>
