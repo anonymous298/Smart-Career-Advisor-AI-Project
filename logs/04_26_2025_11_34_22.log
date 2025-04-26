@@ -1,0 +1,9 @@
+[ 2025-04-26 11:34:27,800 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2025-04-26 11:34:27,806 ] 96 werkzeug - INFO -  * Debugger PIN: 545-954-706
+[ 2025-04-26 11:34:56,221 ] 96 werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 11:34:56] "GET / HTTP/1.1" 200 -
+[ 2025-04-26 11:34:57,150 ] 96 werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 11:34:57] "GET / HTTP/1.1" 200 -
+[ 2025-04-26 11:34:59,809 ] 96 werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 11:34:59] "GET /career-advisor-ai HTTP/1.1" 200 -
+[ 2025-04-26 11:35:08,303 ] 128 Prediction_Pipeline - INFO - Prediction Started
+[ 2025-04-26 11:35:09,092 ] 256 absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[ 2025-04-26 11:35:09,230 ] 96 werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 11:35:09] "GET /submit?answers={"Q1":"Technology","Q2":"Intermediate","Q3":"Team","Q4":"Bachelors","Q5":"Extrovert","Q6":"Practical","Q7":"Very%20High","Q8":"Average","Q9":"Collaborative","Q10":"Exceptional"} HTTP/1.1" 200 -
+[ 2025-04-26 11:35:20,358 ] 96 werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 11:35:20] "GET / HTTP/1.1" 200 -
