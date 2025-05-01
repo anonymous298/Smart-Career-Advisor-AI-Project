@@ -119,5 +119,3 @@ Hi! I'm [Talha](https://github.com/anonymous298), a passionate developer and tec
 ### **Connect with Me**  
 - [GitHub](https://github.com/anonymous298)  
 - [LinkedIn](https://linkedin.com/in/muhmmad-talha937/)
-
-
